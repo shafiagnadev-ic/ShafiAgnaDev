@@ -1,0 +1,3242 @@
+{
+  "generator": "python scripts/build_catalog.py",
+  "counts": {
+    "Ai & math": 0,
+    "Automotive": 0,
+    "Business Or Company": 0,
+    "Creative & Entertainment": 0,
+    "E-commerce Online Store": 2,
+    "Education": 0,
+    "Example Startup": 2,
+    "Food And Beverage": 263,
+    "Game": 0,
+    "Media & Content": 0,
+    "Organization": 0,
+    "Personal": 0,
+    "Professional Services": 0,
+    "Property": 10,
+    "Sport & Fitness": 1,
+    "Travel & Tourism": 2
+  },
+  "total": 280,
+  "categoryCount": 16,
+  "emptyCategoryCount": 10,
+  "foodAndBeverage": {
+    "sourceFolderCount": 283,
+    "websiteCount": 263,
+    "excludedCount": 20,
+    "uniqueWebsiteCount": 263
+  },
+  "urlTypes": {
+    "local": 280
+  },
+  "thumbnailKinds": {
+    "source-image": 273,
+    "placeholder": 6,
+    "screenshot": 1
+  },
+  "thumbnailBytes": 11158914,
+  "thumbnails": [
+    {
+      "sourceFolder": "Website/E-commerce Online Store/KICKS",
+      "output": "assets/thumbnails/kicks-c58160ee.webp",
+      "source": "Website/E-commerce Online Store/KICKS/KICKS-front-end-v2/assets/kicks-logotxt.png",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/E-commerce Online Store/Mwehe",
+      "output": "assets/thumbnails/mwehe-9acd5431.webp",
+      "source": "Website/E-commerce Online Store/Mwehe/assets/logo-mark.png",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Example Startup/StudyFlow",
+      "output": "assets/thumbnails/studyflow-cec50682.webp",
+      "source": "Website/Example Startup/StudyFlow/ChatGPT Image Sep 20, 2026, 11_09_13 PM.png",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Example Startup/Tani",
+      "output": "assets/thumbnails/tani-8b7ef654.svg",
+      "source": null,
+      "kind": "placeholder"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/330 KOPI",
+      "output": "assets/thumbnails/330-kopi-dacc3068.webp",
+      "source": "Website/Food And Beverage/330 KOPI/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/5cm Coffe and Eatery (Cabang Depok)",
+      "output": "assets/thumbnails/5cm-coffe-and-eatery-cabang-depok-80475e3e.webp",
+      "source": "Website/Food And Beverage/5cm Coffe and Eatery (Cabang Depok)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Amfiteater Coffee and Eatery, BSD",
+      "output": "assets/thumbnails/amfiteater-coffee-and-eatery-bsd-4fcd7e6d.webp",
+      "source": "Website/Food And Beverage/Amfiteater Coffee and Eatery, BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Aming Coffee Summarecon Mall Bekasi",
+      "output": "assets/thumbnails/aming-coffee-summarecon-mall-bekasi-9a04a44e.webp",
+      "source": "Website/Food And Beverage/Aming Coffee Summarecon Mall Bekasi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Amy and Cake (Bintaro)",
+      "output": "assets/thumbnails/amy-and-cake-bintaro-f183f1e4.webp",
+      "source": "Website/Food And Beverage/Amy and Cake (Bintaro)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Aneka Seafood 38 BSD",
+      "output": "assets/thumbnails/aneka-seafood-38-bsd-7cb60e48.webp",
+      "source": "Website/Food And Beverage/Aneka Seafood 38 BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/AROEM RESTO and CAFE BOGOR",
+      "output": "assets/thumbnails/aroem-resto-and-cafe-bogor-f76e9080.webp",
+      "source": "Website/Food And Beverage/AROEM RESTO and CAFE BOGOR/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Aruku Coffee and Studio Gading Serpong",
+      "output": "assets/thumbnails/aruku-coffee-and-studio-gading-serpong-ad13e07a.webp",
+      "source": "Website/Food And Beverage/Aruku Coffee and Studio Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/aruma",
+      "output": "assets/thumbnails/aruma-a2c47117.webp",
+      "source": "Website/Food And Beverage/aruma/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Asland Cake Bakery Pamulang",
+      "output": "assets/thumbnails/asland-cake-bakery-pamulang-7c6f51b7.webp",
+      "source": "Website/Food And Beverage/Asland Cake Bakery Pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Asuka Brewing and Space",
+      "output": "assets/thumbnails/asuka-brewing-and-space-3fb47083.webp",
+      "source": "Website/Food And Beverage/Asuka Brewing and Space/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Avenue Coffee and Eatery",
+      "output": "assets/thumbnails/avenue-coffee-and-eatery-6074db31.webp",
+      "source": "Website/Food And Beverage/Avenue Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ayam Goreng Kampung & Sop Buntut Pak Arief BSD",
+      "output": "assets/thumbnails/ayam-goreng-kampung-sop-buntut-pak-arief-bsd-0da44242.webp",
+      "source": "Website/Food And Beverage/Ayam Goreng Kampung & Sop Buntut Pak Arief BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ayam Goreng Simpang Siliwangi",
+      "output": "assets/thumbnails/ayam-goreng-simpang-siliwangi-2a39b764.svg",
+      "source": null,
+      "kind": "placeholder"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bajawa Flores NTT Depok",
+      "output": "assets/thumbnails/bajawa-flores-ntt-depok-cadc6c57.webp",
+      "source": "Website/Food And Beverage/Bajawa Flores NTT Depok/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bakerman+ Ashta",
+      "output": "assets/thumbnails/bakerman-ashta-3779db0c.webp",
+      "source": "Website/Food And Beverage/Bakerman+ Ashta/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Balboni Ristorante",
+      "output": "assets/thumbnails/balboni-ristorante-da9ca815.webp",
+      "source": "Website/Food And Beverage/Balboni Ristorante/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bari Ramen",
+      "output": "assets/thumbnails/bari-ramen-ff2fc4e9.webp",
+      "source": "Website/Food And Beverage/Bari Ramen/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/BATAM SEAFOOD PERANAKAN Spesialis Kari Ikan Resto Seafood Terenak di Gading Serpong Halal",
+      "output": "assets/thumbnails/batam-seafood-peranakan-spesialis-kari-ikan-resto-seafood-terenak-di-g-d8ccbb1f.webp",
+      "source": "Website/Food And Beverage/BATAM SEAFOOD PERANAKAN Spesialis Kari Ikan Resto Seafood Terenak di Gading Serpong Halal/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bebek Boedjang - BSD Serpong",
+      "output": "assets/thumbnails/bebek-boedjang-bsd-serpong-6de2ac3d.webp",
+      "source": "Website/Food And Beverage/Bebek Boedjang - BSD Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bento Kopi Ciputat",
+      "output": "assets/thumbnails/bento-kopi-ciputat-62b21235.webp",
+      "source": "Website/Food And Beverage/Bento Kopi Ciputat/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Beranda Kahyangan",
+      "output": "assets/thumbnails/beranda-kahyangan-0676c618.webp",
+      "source": "Website/Food And Beverage/Beranda Kahyangan/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Berga Coffee",
+      "output": "assets/thumbnails/berga-coffee-0adc4018.webp",
+      "source": "Website/Food And Beverage/Berga Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/BERKALA COFFEE AMPERA",
+      "output": "assets/thumbnails/berkala-coffee-ampera-28f961af.webp",
+      "source": "Website/Food And Beverage/BERKALA COFFEE AMPERA/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/BERLARIS KOPI DAN RESTO",
+      "output": "assets/thumbnails/berlaris-kopi-dan-resto-6b6ecf66.webp",
+      "source": "Website/Food And Beverage/BERLARIS KOPI DAN RESTO/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Black Campaign Coffee",
+      "output": "assets/thumbnails/black-campaign-coffee-9342a701.webp",
+      "source": "Website/Food And Beverage/Black Campaign Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Blue House Cafe",
+      "output": "assets/thumbnails/blue-house-cafe-1446028a.webp",
+      "source": "Website/Food And Beverage/Blue House Cafe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bluish Cafe Bar",
+      "output": "assets/thumbnails/bluish-cafe-bar-0e4a034b.webp",
+      "source": "Website/Food And Beverage/Bluish Cafe Bar/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bluperry Coffee",
+      "output": "assets/thumbnails/bluperry-coffee-cd207f53.webp",
+      "source": "Website/Food And Beverage/Bluperry Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bolo essential",
+      "output": "assets/thumbnails/bolo-essential-3723783f.webp",
+      "source": "Website/Food And Beverage/Bolo essential/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/brownline - Gading Serpong",
+      "output": "assets/thumbnails/brownline-gading-serpong-3d91c3ab.webp",
+      "source": "Website/Food And Beverage/brownline - Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bubur Angke THI - Puri Pesanggrahan",
+      "output": "assets/thumbnails/bubur-angke-thi-puri-pesanggrahan-c91fd296.webp",
+      "source": "Website/Food And Beverage/Bubur Angke THI - Puri Pesanggrahan/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bumbu Karaeng Seafood Makassar",
+      "output": "assets/thumbnails/bumbu-karaeng-seafood-makassar-469118a6.webp",
+      "source": "Website/Food And Beverage/Bumbu Karaeng Seafood Makassar/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bun Pao",
+      "output": "assets/thumbnails/bun-pao-59b750f9.webp",
+      "source": "Website/Food And Beverage/Bun Pao/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bunna Senopati",
+      "output": "assets/thumbnails/bunna-senopati-118060e0.webp",
+      "source": "Website/Food And Beverage/Bunna Senopati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/C for Cafe Karawaci",
+      "output": "assets/thumbnails/c-for-cafe-karawaci-1d4f013f.webp",
+      "source": "Website/Food And Beverage/C for Cafe Karawaci/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cafe Tutur Bekasi",
+      "output": "assets/thumbnails/cafe-tutur-bekasi-0cdc4787.webp",
+      "source": "Website/Food And Beverage/Cafe Tutur Bekasi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Canabeans Alam Sutera",
+      "output": "assets/thumbnails/canabeans-alam-sutera-fdfae812.webp",
+      "source": "Website/Food And Beverage/Canabeans Alam Sutera/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Candik Ayu Bakso Rahayu",
+      "output": "assets/thumbnails/candik-ayu-bakso-rahayu-0504559b.webp",
+      "source": "Website/Food And Beverage/Candik Ayu Bakso Rahayu/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Casa Plants and Coffee",
+      "output": "assets/thumbnails/casa-plants-and-coffee-6ebed328.webp",
+      "source": "Website/Food And Beverage/Casa Plants and Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/CelCo Toko Kopi Alam Sutera",
+      "output": "assets/thumbnails/celco-toko-kopi-alam-sutera-3b666b52.webp",
+      "source": "Website/Food And Beverage/CelCo Toko Kopi Alam Sutera/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chefs Kitchen Live Seafood Fatmawati",
+      "output": "assets/thumbnails/chefs-kitchen-live-seafood-fatmawati-9902fd1a.webp",
+      "source": "Website/Food And Beverage/Chefs Kitchen Live Seafood Fatmawati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chloes Coffee",
+      "output": "assets/thumbnails/chloes-coffee-4e2e097c.webp",
+      "source": "Website/Food And Beverage/Chloes Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chocban Jakarta Senopati",
+      "output": "assets/thumbnails/chocban-jakarta-senopati-931ba0ff.webp",
+      "source": "Website/Food And Beverage/Chocban Jakarta Senopati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chong Qing Hot Pot Senopati",
+      "output": "assets/thumbnails/chong-qing-hot-pot-senopati-6b0fecd9.webp",
+      "source": "Website/Food And Beverage/Chong Qing Hot Pot Senopati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Coffee Ya",
+      "output": "assets/thumbnails/coffee-ya-8eda6ad7.webp",
+      "source": "Website/Food And Beverage/Coffee Ya/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/COFFEERIGHT Cibubur",
+      "output": "assets/thumbnails/coffeeright-cibubur-fe0135b5.webp",
+      "source": "Website/Food And Beverage/COFFEERIGHT Cibubur/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cotta Haus Pamulang",
+      "output": "assets/thumbnails/cotta-haus-pamulang-8df018bf.webp",
+      "source": "Website/Food And Beverage/Cotta Haus Pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Couz Steak House",
+      "output": "assets/thumbnails/couz-steak-house-8ade981a.webp",
+      "source": "Website/Food And Beverage/Couz Steak House/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Crackling Serpong (Crispy Pork Belly)",
+      "output": "assets/thumbnails/crackling-serpong-crispy-pork-belly-62b1b95f.webp",
+      "source": "Website/Food And Beverage/Crackling Serpong (Crispy Pork Belly)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/CRALOTS Bakery and Cafe",
+      "output": "assets/thumbnails/cralots-bakery-and-cafe-814a33cb.webp",
+      "source": "Website/Food And Beverage/CRALOTS Bakery and Cafe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cuil Cafe and Eatery",
+      "output": "assets/thumbnails/cuil-cafe-and-eatery-d871c86f.webp",
+      "source": "Website/Food And Beverage/Cuil Cafe and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/DAGOSTEAK KULINER PAMULANG",
+      "output": "assets/thumbnails/dagosteak-kuliner-pamulang-794a7717.webp",
+      "source": "Website/Food And Beverage/DAGOSTEAK KULINER PAMULANG/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/DANDYco Bakery Serpong",
+      "output": "assets/thumbnails/dandyco-bakery-serpong-748ee1a7.webp",
+      "source": "Website/Food And Beverage/DANDYco Bakery Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Dapur Bandha",
+      "output": "assets/thumbnails/dapur-bandha-95402b96.webp",
+      "source": "Website/Food And Beverage/Dapur Bandha/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/de flore, Dine and Drink",
+      "output": "assets/thumbnails/de-flore-dine-and-drink-9f4ff4c2.webp",
+      "source": "Website/Food And Beverage/de flore, Dine and Drink/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/December Coffee",
+      "output": "assets/thumbnails/december-coffee-634e9fc8.webp",
+      "source": "Website/Food And Beverage/December Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/deClan Signature Cipete",
+      "output": "assets/thumbnails/declan-signature-cipete-c0b30e56.webp",
+      "source": "Website/Food And Beverage/deClan Signature Cipete/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/DEste Coffee and Eatery",
+      "output": "assets/thumbnails/deste-coffee-and-eatery-cbb4d8e2.webp",
+      "source": "Website/Food And Beverage/DEste Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Di Sebelah Rumah IDN",
+      "output": "assets/thumbnails/di-sebelah-rumah-idn-949c080d.webp",
+      "source": "Website/Food And Beverage/Di Sebelah Rumah IDN/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Dimsum Kebul Permata",
+      "output": "assets/thumbnails/dimsum-kebul-permata-5f6ebbc0.webp",
+      "source": "Website/Food And Beverage/Dimsum Kebul Permata/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Djajan Seafood Pamulang",
+      "output": "assets/thumbnails/djajan-seafood-pamulang-a6ce430f.webp",
+      "source": "Website/Food And Beverage/Djajan Seafood Pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Domico Coffee",
+      "output": "assets/thumbnails/domico-coffee-bd1812dd.webp",
+      "source": "Website/Food And Beverage/Domico Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/El Profesor Steakhouse - T Space Bintaro",
+      "output": "assets/thumbnails/el-profesor-steakhouse-t-space-bintaro-6b144468.webp",
+      "source": "Website/Food And Beverage/El Profesor Steakhouse - T Space Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Emados Lebak Bulus",
+      "output": "assets/thumbnails/emados-lebak-bulus-f0c08a15.webp",
+      "source": "Website/Food And Beverage/Emados Lebak Bulus/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Etera Tebet",
+      "output": "assets/thumbnails/etera-tebet-027bef69.webp",
+      "source": "Website/Food And Beverage/Etera Tebet/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gamare Coffee",
+      "output": "assets/thumbnails/gamare-coffee-dedcf94d.webp",
+      "source": "Website/Food And Beverage/Gamare Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GIOI Senopati",
+      "output": "assets/thumbnails/gioi-senopati-3cec7922.webp",
+      "source": "Website/Food And Beverage/GIOI Senopati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GLOBAL BAKERY BENDA RAYA",
+      "output": "assets/thumbnails/global-bakery-benda-raya-cf0a5941.webp",
+      "source": "Website/Food And Beverage/GLOBAL BAKERY BENDA RAYA/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Golden Sugar Patissier",
+      "output": "assets/thumbnails/golden-sugar-patissier-21531077.webp",
+      "source": "Website/Food And Beverage/Golden Sugar Patissier/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GOOD TASTE - The Barn BSD",
+      "output": "assets/thumbnails/good-taste-the-barn-bsd-596a3478.webp",
+      "source": "Website/Food And Beverage/GOOD TASTE - The Barn BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Graha Coffee and Eatery",
+      "output": "assets/thumbnails/graha-coffee-and-eatery-af15743a.webp",
+      "source": "Website/Food And Beverage/Graha Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GRAND WINGHENG Hongkong Dimsum Elvee",
+      "output": "assets/thumbnails/grand-wingheng-hongkong-dimsum-elvee-e2794ccd.webp",
+      "source": "Website/Food And Beverage/GRAND WINGHENG Hongkong Dimsum Elvee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gubug Berkah Resto BSD",
+      "output": "assets/thumbnails/gubug-berkah-resto-bsd-53ab0f65.webp",
+      "source": "Website/Food And Beverage/Gubug Berkah Resto BSD/Foto/gubug_berkah_03.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gubug Berkah Resto BSD ( Wedding Resto )",
+      "output": "assets/thumbnails/gubug-berkah-resto-bsd-wedding-resto-fdef5abc.webp",
+      "source": "Website/Food And Beverage/Gubug Berkah Resto BSD ( Wedding Resto )/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gumati Resto Khas Sunda",
+      "output": "assets/thumbnails/gumati-resto-khas-sunda-7e4fe176.webp",
+      "source": "Website/Food And Beverage/Gumati Resto Khas Sunda/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hachi garden ampera",
+      "output": "assets/thumbnails/hachi-garden-ampera-e76eebbf.webp",
+      "source": "Website/Food And Beverage/Hachi garden ampera/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hadramiah Restaurant Arabic and Indonesian Food",
+      "output": "assets/thumbnails/hadramiah-restaurant-arabic-and-indonesian-food-d2a16225.webp",
+      "source": "Website/Food And Beverage/Hadramiah Restaurant Arabic and Indonesian Food/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hang Tuah - Pesanggrahan",
+      "output": "assets/thumbnails/hang-tuah-pesanggrahan-1cefe36a.webp",
+      "source": "Website/Food And Beverage/Hang Tuah - Pesanggrahan/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hause Rooftop Senopati",
+      "output": "assets/thumbnails/hause-rooftop-senopati-1083bde4.webp",
+      "source": "Website/Food And Beverage/Hause Rooftop Senopati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hava Restaurant & Cafe Bintaro",
+      "output": "assets/thumbnails/hava-restaurant-cafe-bintaro-eb641d4c.webp",
+      "source": "Website/Food And Beverage/Hava Restaurant & Cafe Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/HOZ Pasta Pamulang",
+      "output": "assets/thumbnails/hoz-pasta-pamulang-025774b2.webp",
+      "source": "Website/Food And Beverage/HOZ Pasta Pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ikira Japanese Steakhouse",
+      "output": "assets/thumbnails/ikira-japanese-steakhouse-b1423768.webp",
+      "source": "Website/Food And Beverage/Ikira Japanese Steakhouse/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Interaksi Space - Pamulang",
+      "output": "assets/thumbnails/interaksi-space-pamulang-a2a3c9b2.webp",
+      "source": "Website/Food And Beverage/Interaksi Space - Pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/iSTEAKu - Green Terrace",
+      "output": "assets/thumbnails/isteaku-green-terrace-4c220577.webp",
+      "source": "Website/Food And Beverage/iSTEAKu - Green Terrace/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jalarasa, The Breeze BSD",
+      "output": "assets/thumbnails/jalarasa-the-breeze-bsd-101482ff.webp",
+      "source": "Website/Food And Beverage/Jalarasa, The Breeze BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jasunda",
+      "output": "assets/thumbnails/jasunda-f9ef9eeb.webp",
+      "source": "Website/Food And Beverage/Jasunda/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jasunda Bintaro",
+      "output": "assets/thumbnails/jasunda-bintaro-dcab0739.webp",
+      "source": "Website/Food And Beverage/Jasunda Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Javatoscana Garden Resto and Cafe",
+      "output": "assets/thumbnails/javatoscana-garden-resto-and-cafe-0200cfdc.webp",
+      "source": "Website/Food And Beverage/Javatoscana Garden Resto and Cafe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jiwan Coffee and Things Cibubur",
+      "output": "assets/thumbnails/jiwan-coffee-and-things-cibubur-6a24faef.webp",
+      "source": "Website/Food And Beverage/Jiwan Coffee and Things Cibubur/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jj Ramen",
+      "output": "assets/thumbnails/jj-ramen-4a8a1f47.webp",
+      "source": "Website/Food And Beverage/Jj Ramen/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Joffi Ramen Bintaro",
+      "output": "assets/thumbnails/joffi-ramen-bintaro-2fb2ef9f.webp",
+      "source": "Website/Food And Beverage/Joffi Ramen Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jongcrue Cafe ( Coffee and Eatery )By Kopilimana",
+      "output": "assets/thumbnails/jongcrue-cafe-coffee-and-eatery-by-kopilimana-cd7edfae.webp",
+      "source": "Website/Food And Beverage/Jongcrue Cafe ( Coffee and Eatery )By Kopilimana/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Justus Steak House Bintaro",
+      "output": "assets/thumbnails/justus-steak-house-bintaro-7f6df8f4.webp",
+      "source": "Website/Food And Beverage/Justus Steak House Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/k.l.e.i Creative Space and Eatery",
+      "output": "assets/thumbnails/k-l-e-i-creative-space-and-eatery-d8fa261e.webp",
+      "source": "Website/Food And Beverage/k.l.e.i Creative Space and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kaizen Heritage 8.0 - Kaizen Heritage Cibubur",
+      "output": "assets/thumbnails/kaizen-heritage-8-0-kaizen-heritage-cibubur-a01fdeb5.webp",
+      "source": "Website/Food And Beverage/Kaizen Heritage 8.0 - Kaizen Heritage Cibubur/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kalia Restaurant",
+      "output": "assets/thumbnails/kalia-restaurant-2a959f14.webp",
+      "source": "Website/Food And Beverage/Kalia Restaurant/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kampung Kecil Ciputat",
+      "output": "assets/thumbnails/kampung-kecil-ciputat-af1e3021.webp",
+      "source": "Website/Food And Beverage/Kampung Kecil Ciputat/photos/m16x9_kk_17.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kataramen Tebet",
+      "output": "assets/thumbnails/kataramen-tebet-31a14fd1.webp",
+      "source": "Website/Food And Beverage/Kataramen Tebet/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kaybun Dimsum",
+      "output": "assets/thumbnails/kaybun-dimsum-57668879.webp",
+      "source": "Website/Food And Beverage/Kaybun Dimsum/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kebon Kita Space Coffee and Eatery Serpong Tangerang",
+      "output": "assets/thumbnails/kebon-kita-space-coffee-and-eatery-serpong-tangerang-8307b710.webp",
+      "source": "Website/Food And Beverage/Kebon Kita Space Coffee and Eatery Serpong Tangerang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kedai Juanda 105 Bekasi (Steak, Nasi Goreng, Jus Buah)",
+      "output": "assets/thumbnails/kedai-juanda-105-bekasi-steak-nasi-goreng-jus-buah-4cceda35.webp",
+      "source": "Website/Food And Beverage/Kedai Juanda 105 Bekasi (Steak, Nasi Goreng, Jus Buah)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kedai Mie Tjap 1000 Tahun, Senopati",
+      "output": "assets/thumbnails/kedai-mie-tjap-1000-tahun-senopati-c6f52d5d.webp",
+      "source": "Website/Food And Beverage/Kedai Mie Tjap 1000 Tahun, Senopati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kenyangin Resto",
+      "output": "assets/thumbnails/kenyangin-resto-b17520f6.webp",
+      "source": "Website/Food And Beverage/Kenyangin Resto/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kieta Roastery",
+      "output": "assets/thumbnails/kieta-roastery-a8464dbf.webp",
+      "source": "Website/Food And Beverage/Kieta Roastery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kimukatsu Bintaro Exchange",
+      "output": "assets/thumbnails/kimukatsu-bintaro-exchange-0a3d9c0b.webp",
+      "source": "Website/Food And Beverage/Kimukatsu Bintaro Exchange/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kios Ojo Keos",
+      "output": "assets/thumbnails/kios-ojo-keos-dc10e9f1.webp",
+      "source": "Website/Food And Beverage/Kios Ojo Keos/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Koat Coffee Depok",
+      "output": "assets/thumbnails/koat-coffee-depok-3640c040.webp",
+      "source": "Website/Food And Beverage/Koat Coffee Depok/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Koffie Home",
+      "output": "assets/thumbnails/koffie-home-81200446.webp",
+      "source": "Website/Food And Beverage/Koffie Home/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Djoe",
+      "output": "assets/thumbnails/kopi-djoe-4fd05bcc.webp",
+      "source": "Website/Food And Beverage/Kopi Djoe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Klotok Pamulang",
+      "output": "assets/thumbnails/kopi-klotok-pamulang-4eec274d.webp",
+      "source": "Website/Food And Beverage/Kopi Klotok Pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Melantjong",
+      "output": "assets/thumbnails/kopi-melantjong-42d6a817.webp",
+      "source": "Website/Food And Beverage/Kopi Melantjong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Nu Sae, Cibubur",
+      "output": "assets/thumbnails/kopi-nu-sae-cibubur-6001b891.webp",
+      "source": "Website/Food And Beverage/Kopi Nu Sae, Cibubur/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Per Hari (Kopi-Hari) Pengasinan",
+      "output": "assets/thumbnails/kopi-per-hari-kopi-hari-pengasinan-703c2f4e.webp",
+      "source": "Website/Food And Beverage/Kopi Per Hari (Kopi-Hari) Pengasinan/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Saking Gading Serpong",
+      "output": "assets/thumbnails/kopi-saking-gading-serpong-aaa11e3a.webp",
+      "source": "Website/Food And Beverage/Kopi Saking Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi solusinya pamulang",
+      "output": "assets/thumbnails/kopi-solusinya-pamulang-fa690230.webp",
+      "source": "Website/Food And Beverage/Kopi solusinya pamulang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Tiga Gelas - KTG",
+      "output": "assets/thumbnails/kopi-tiga-gelas-ktg-47ee23ee.webp",
+      "source": "Website/Food And Beverage/Kopi Tiga Gelas - KTG/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopiano Coffee and Pastry - BSD",
+      "output": "assets/thumbnails/kopiano-coffee-and-pastry-bsd-3256de33.webp",
+      "source": "Website/Food And Beverage/Kopiano Coffee and Pastry - BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/KOPITONITO",
+      "output": "assets/thumbnails/kopitonito-37678ac6.webp",
+      "source": "Website/Food And Beverage/KOPITONITO/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Koultoura Coffee",
+      "output": "assets/thumbnails/koultoura-coffee-b0da58dd.webp",
+      "source": "Website/Food And Beverage/Koultoura Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/KOZI Coffee Bekasi",
+      "output": "assets/thumbnails/kozi-coffee-bekasi-eb966604.webp",
+      "source": "Website/Food And Beverage/KOZI Coffee Bekasi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kulumanu Kopi",
+      "output": "assets/thumbnails/kulumanu-kopi-75344144.webp",
+      "source": "Website/Food And Beverage/Kulumanu Kopi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kyuka Ramen - Blok M",
+      "output": "assets/thumbnails/kyuka-ramen-blok-m-ff1b9920.webp",
+      "source": "Website/Food And Beverage/Kyuka Ramen - Blok M/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/La Tierra XII Cafe and Bistro",
+      "output": "assets/thumbnails/la-tierra-xii-cafe-and-bistro-c3e904f8.webp",
+      "source": "Website/Food And Beverage/La Tierra XII Cafe and Bistro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ladang Padi",
+      "output": "assets/thumbnails/ladang-padi-f3d13dba.webp",
+      "source": "Website/Food And Beverage/Ladang Padi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Laforza Coffee and Eatery",
+      "output": "assets/thumbnails/laforza-coffee-and-eatery-f6a48bb5.webp",
+      "source": "Website/Food And Beverage/Laforza Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/LaWang Jogja Resto",
+      "output": "assets/thumbnails/lawang-jogja-resto-b2933b8d.webp",
+      "source": "Website/Food And Beverage/LaWang Jogja Resto/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Leko The Breeze",
+      "output": "assets/thumbnails/leko-the-breeze-01660f11.webp",
+      "source": "Website/Food And Beverage/Leko The Breeze/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Linea Coffee and Eatery",
+      "output": "assets/thumbnails/linea-coffee-and-eatery-fddfbf1d.webp",
+      "source": "Website/Food And Beverage/Linea Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Little Talk Bistro",
+      "output": "assets/thumbnails/little-talk-bistro-ca306015.webp",
+      "source": "Website/Food And Beverage/Little Talk Bistro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Lobster18a Kemang",
+      "output": "assets/thumbnails/lobster18a-kemang-ef06930c.webp",
+      "source": "Website/Food And Beverage/Lobster18a Kemang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Loteng Cafe Modernland",
+      "output": "assets/thumbnails/loteng-cafe-modernland-114d7fa6.webp",
+      "source": "Website/Food And Beverage/Loteng Cafe Modernland/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Lynea Coffee and Eatery",
+      "output": "assets/thumbnails/lynea-coffee-and-eatery-bb03895e.webp",
+      "source": "Website/Food And Beverage/Lynea Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAESTRO FOREST",
+      "output": "assets/thumbnails/maestro-forest-dfece7b3.webp",
+      "source": "Website/Food And Beverage/MAESTRO FOREST/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Main Street Dining and Coffee Mega Billiard Kota Wisata",
+      "output": "assets/thumbnails/main-street-dining-and-coffee-mega-billiard-kota-wisata-4732d920.webp",
+      "source": "Website/Food And Beverage/Main Street Dining and Coffee Mega Billiard Kota Wisata/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAISON TATEI - BINTARO",
+      "output": "assets/thumbnails/maison-tatei-bintaro-5c8d5440.webp",
+      "source": "Website/Food And Beverage/MAISON TATEI - BINTARO/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAKAN BAWAH POHON",
+      "output": "assets/thumbnails/makan-bawah-pohon-6f1878d9.webp",
+      "source": "Website/Food And Beverage/MAKAN BAWAH POHON/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Makan di Tebet",
+      "output": "assets/thumbnails/makan-di-tebet-2f808abb.webp",
+      "source": "Website/Food And Beverage/Makan di Tebet/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Manosa Cafe and Resto",
+      "output": "assets/thumbnails/manosa-cafe-and-resto-a2e77beb.webp",
+      "source": "Website/Food And Beverage/Manosa Cafe and Resto/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAOI coffee",
+      "output": "assets/thumbnails/maoi-coffee-94780bed.webp",
+      "source": "Website/Food And Beverage/MAOI coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Mayasari Lebak Bulus - Bakery Oleh Oleh Khas Bandung",
+      "output": "assets/thumbnails/mayasari-lebak-bulus-bakery-oleh-oleh-khas-bandung-882f2e2d.webp",
+      "source": "Website/Food And Beverage/Mayasari Lebak Bulus - Bakery Oleh Oleh Khas Bandung/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MEGA BAKERY BSD",
+      "output": "assets/thumbnails/mega-bakery-bsd-0f510cee.webp",
+      "source": "Website/Food And Beverage/MEGA BAKERY BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Menjulang Kedai Kopi Eps. 2",
+      "output": "assets/thumbnails/menjulang-kedai-kopi-eps-2-9dbb3cc1.webp",
+      "source": "Website/Food And Beverage/Menjulang Kedai Kopi Eps. 2/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Merene Coffee and Eatery",
+      "output": "assets/thumbnails/merene-coffee-and-eatery-af5e9ad6.webp",
+      "source": "Website/Food And Beverage/Merene Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Metavoya Of Foodstep",
+      "output": "assets/thumbnails/metavoya-of-foodstep-b77d89df.webp",
+      "source": "Website/Food And Beverage/Metavoya Of Foodstep/Screenshot 2026-09-18 220241.png",
+      "kind": "screenshot"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Mixmi Tangerang",
+      "output": "assets/thumbnails/mixmi-tangerang-055ef045.webp",
+      "source": "Website/Food And Beverage/Mixmi Tangerang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MONGSIM Bakery and Coffee",
+      "output": "assets/thumbnails/mongsim-bakery-and-coffee-5732da25.webp",
+      "source": "Website/Food And Beverage/MONGSIM Bakery and Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Moru - Supermal Karawaci",
+      "output": "assets/thumbnails/moru-supermal-karawaci-13533196.webp",
+      "source": "Website/Food And Beverage/Moru - Supermal Karawaci/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Mostly Coffee and Kitchen",
+      "output": "assets/thumbnails/mostly-coffee-and-kitchen-0a774012.webp",
+      "source": "Website/Food And Beverage/Mostly Coffee and Kitchen/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MUHI. Rasa Lokal and Kopi",
+      "output": "assets/thumbnails/muhi-rasa-lokal-and-kopi-e30aa8f0.webp",
+      "source": "Website/Food And Beverage/MUHI. Rasa Lokal and Kopi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Muyen Coffee Gading Serpong",
+      "output": "assets/thumbnails/muyen-coffee-gading-serpong-cf141cbe.webp",
+      "source": "Website/Food And Beverage/Muyen Coffee Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/NAHDI CHICKEN EXPRESS GRAHA BINTARO",
+      "output": "assets/thumbnails/nahdi-chicken-express-graha-bintaro-ad54014a.webp",
+      "source": "Website/Food And Beverage/NAHDI CHICKEN EXPRESS GRAHA BINTARO/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Naked Patty - Bintaro Permai",
+      "output": "assets/thumbnails/naked-patty-bintaro-permai-e1927972.webp",
+      "source": "Website/Food And Beverage/Naked Patty - Bintaro Permai/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/NAMO Gading Serpong Arcadia",
+      "output": "assets/thumbnails/namo-gading-serpong-arcadia-80a97706.webp",
+      "source": "Website/Food And Beverage/NAMO Gading Serpong Arcadia/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Nekorenji Ramen Jakarta",
+      "output": "assets/thumbnails/nekorenji-ramen-jakarta-23b93b76.webp",
+      "source": "Website/Food And Beverage/Nekorenji Ramen Jakarta/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Nongkitiam - Bintaro",
+      "output": "assets/thumbnails/nongkitiam-bintaro-96b09dee.webp",
+      "source": "Website/Food And Beverage/Nongkitiam - Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Nustro - Tebet Skyline",
+      "output": "assets/thumbnails/nustro-tebet-skyline-99f71309.webp",
+      "source": "Website/Food And Beverage/Nustro - Tebet Skyline/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Oddys Coffee and Eatery Rawa Buntu BSD",
+      "output": "assets/thumbnails/oddys-coffee-and-eatery-rawa-buntu-bsd-788dc0f5.webp",
+      "source": "Website/Food And Beverage/Oddys Coffee and Eatery Rawa Buntu BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Okuzono Japanese Dining",
+      "output": "assets/thumbnails/okuzono-japanese-dining-8eefac8f.webp",
+      "source": "Website/Food And Beverage/Okuzono Japanese Dining/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/OLD N NEW BAKERY Alam Sutera",
+      "output": "assets/thumbnails/old-n-new-bakery-alam-sutera-3cba2d26.webp",
+      "source": "Website/Food And Beverage/OLD N NEW BAKERY Alam Sutera/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/One G's Cafe and Resto",
+      "output": "assets/thumbnails/one-g-s-cafe-and-resto-f61406be.webp",
+      "source": "Website/Food And Beverage/One G's Cafe and Resto/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/ORKA Coffee - Tebet",
+      "output": "assets/thumbnails/orka-coffee-tebet-c845d281.webp",
+      "source": "Website/Food And Beverage/ORKA Coffee - Tebet/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Otella & Buranchi Alam Sutera",
+      "output": "assets/thumbnails/otella-buranchi-alam-sutera-02d07541.webp",
+      "source": "Website/Food And Beverage/Otella & Buranchi Alam Sutera/photos/m16x9_p05.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Paling Restoran",
+      "output": "assets/thumbnails/paling-restoran-860c9a3a.webp",
+      "source": "Website/Food And Beverage/Paling Restoran/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pawon Ayoe Dine and Brew",
+      "output": "assets/thumbnails/pawon-ayoe-dine-and-brew-fef4fad0.webp",
+      "source": "Website/Food And Beverage/Pawon Ayoe Dine and Brew/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pawonaga",
+      "output": "assets/thumbnails/pawonaga-17571bbf.webp",
+      "source": "Website/Food And Beverage/Pawonaga/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pecel Pincuk Godong Ijo 9",
+      "output": "assets/thumbnails/pecel-pincuk-godong-ijo-9-e0edfac1.webp",
+      "source": "Website/Food And Beverage/Pecel Pincuk Godong Ijo 9/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pejaten Huis Coffee",
+      "output": "assets/thumbnails/pejaten-huis-coffee-c95025aa.webp",
+      "source": "Website/Food And Beverage/Pejaten Huis Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Plate Palate Reservation",
+      "output": "assets/thumbnails/plate-palate-reservation-d8db9b16.webp",
+      "source": "Website/Food And Beverage/Plate Palate Reservation/images/photo_03.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Platon Coffee",
+      "output": "assets/thumbnails/platon-coffee-5a8508d4.webp",
+      "source": "Website/Food And Beverage/Platon Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/QUARTER LIFE COFFEE and EATERY",
+      "output": "assets/thumbnails/quarter-life-coffee-and-eatery-0526dbc3.webp",
+      "source": "Website/Food And Beverage/QUARTER LIFE COFFEE and EATERY/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ramen Ayam JonJon - K-Hub",
+      "output": "assets/thumbnails/ramen-ayam-jonjon-k-hub-6dd3c4d9.webp",
+      "source": "Website/Food And Beverage/Ramen Ayam JonJon - K-Hub/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Resto 33 Khas Kuala Lumpur Gading Serpong",
+      "output": "assets/thumbnails/resto-33-khas-kuala-lumpur-gading-serpong-9d46b651.webp",
+      "source": "Website/Food And Beverage/Resto 33 Khas Kuala Lumpur Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Resto Boros Boemboe",
+      "output": "assets/thumbnails/resto-boros-boemboe-b33c4999.webp",
+      "source": "Website/Food And Beverage/Resto Boros Boemboe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Roemah Kraton",
+      "output": "assets/thumbnails/roemah-kraton-d44854f3.webp",
+      "source": "Website/Food And Beverage/Roemah Kraton/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Roji Ramen Gading Serpong",
+      "output": "assets/thumbnails/roji-ramen-gading-serpong-2094fd8b.webp",
+      "source": "Website/Food And Beverage/Roji Ramen Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ruang Jenuh Coffee",
+      "output": "assets/thumbnails/ruang-jenuh-coffee-cf712869.webp",
+      "source": "Website/Food And Beverage/Ruang Jenuh Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ruang Konspirasi - KOPI + INSPIRASI",
+      "output": "assets/thumbnails/ruang-konspirasi-kopi-inspirasi-a62d2d22.webp",
+      "source": "Website/Food And Beverage/Ruang Konspirasi - KOPI + INSPIRASI/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Rumah TAPI Ciputat",
+      "output": "assets/thumbnails/rumah-tapi-ciputat-e12e513b.webp",
+      "source": "Website/Food And Beverage/Rumah TAPI Ciputat/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SAE EAT and POTTERY GADING SERPONG",
+      "output": "assets/thumbnails/sae-eat-and-pottery-gading-serpong-fecfed65.webp",
+      "source": "Website/Food And Beverage/SAE EAT and POTTERY GADING SERPONG/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sakuta Coffee",
+      "output": "assets/thumbnails/sakuta-coffee-047b3dba.webp",
+      "source": "Website/Food And Beverage/Sakuta Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sale Restaurant BSD",
+      "output": "assets/thumbnails/sale-restaurant-bsd-c1d9489d.webp",
+      "source": "Website/Food And Beverage/Sale Restaurant BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SAMEDJA",
+      "output": "assets/thumbnails/samedja-9eed7f03.webp",
+      "source": "Website/Food And Beverage/SAMEDJA/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SamPan Cafe",
+      "output": "assets/thumbnails/sampan-cafe-a61338a5.webp",
+      "source": "Website/Food And Beverage/SamPan Cafe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Santiga Seafood Abeng Fatmawati",
+      "output": "assets/thumbnails/santiga-seafood-abeng-fatmawati-c2be69ea.webp",
+      "source": "Website/Food And Beverage/Santiga Seafood Abeng Fatmawati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sasuki and bbq",
+      "output": "assets/thumbnails/sasuki-and-bbq-123ec178.webp",
+      "source": "Website/Food And Beverage/Sasuki and bbq/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Satu Juni Coffee",
+      "output": "assets/thumbnails/satu-juni-coffee-293ac3fd.webp",
+      "source": "Website/Food And Beverage/Satu Juni Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Saung Abah Ayam Bakar Bambu Bogor",
+      "output": "assets/thumbnails/saung-abah-ayam-bakar-bambu-bogor-e921466a.webp",
+      "source": "Website/Food And Beverage/Saung Abah Ayam Bakar Bambu Bogor/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Saung Kita Ciledug",
+      "output": "assets/thumbnails/saung-kita-ciledug-e999d0dc.webp",
+      "source": "Website/Food And Beverage/Saung Kita Ciledug/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Saybread Bakery and Cafe Cikajang",
+      "output": "assets/thumbnails/saybread-bakery-and-cafe-cikajang-ea34756b.webp",
+      "source": "Website/Food And Beverage/Saybread Bakery and Cafe Cikajang/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Schuurdeur1928",
+      "output": "assets/thumbnails/schuurdeur1928-f55b792a.svg",
+      "source": null,
+      "kind": "placeholder"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Se.tujuan Coffee and Eatery",
+      "output": "assets/thumbnails/se-tujuan-coffee-and-eatery-61ffedfc.webp",
+      "source": "Website/Food And Beverage/Se.tujuan Coffee and Eatery/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Seafood One Benhil",
+      "output": "assets/thumbnails/seafood-one-benhil-1da7dbde.webp",
+      "source": "Website/Food And Beverage/Seafood One Benhil/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Secret Sushi Bintaro Jaya Xchange Mall 2",
+      "output": "assets/thumbnails/secret-sushi-bintaro-jaya-xchange-mall-2-7018051d.webp",
+      "source": "Website/Food And Beverage/Secret Sushi Bintaro Jaya Xchange Mall 2/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sego Tempong Negoro Jagakarsa",
+      "output": "assets/thumbnails/sego-tempong-negoro-jagakarsa-d110969d.webp",
+      "source": "Website/Food And Beverage/Sego Tempong Negoro Jagakarsa/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sema Coffee",
+      "output": "assets/thumbnails/sema-coffee-7c011304.webp",
+      "source": "Website/Food And Beverage/Sema Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sembilan Cafe Bintaro 9",
+      "output": "assets/thumbnails/sembilan-cafe-bintaro-9-6f049e34.webp",
+      "source": "Website/Food And Beverage/Sembilan Cafe Bintaro 9/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Senja Kopi Cibubur",
+      "output": "assets/thumbnails/senja-kopi-cibubur-00f17fb7.webp",
+      "source": "Website/Food And Beverage/Senja Kopi Cibubur/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Seroendeng!",
+      "output": "assets/thumbnails/seroendeng-be7fedd1.webp",
+      "source": "Website/Food And Beverage/Seroendeng!/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Shabu Siy",
+      "output": "assets/thumbnails/shabu-siy-ba3ecb92.webp",
+      "source": "Website/Food And Beverage/Shabu Siy/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Shem Ramen Signature - BXc Mall 2",
+      "output": "assets/thumbnails/shem-ramen-signature-bxc-mall-2-c979c7e0.webp",
+      "source": "Website/Food And Beverage/Shem Ramen Signature - BXc Mall 2/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SiCangkir Coffee",
+      "output": "assets/thumbnails/sicangkir-coffee-54ac7e38.webp",
+      "source": "Website/Food And Beverage/SiCangkir Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sicile Jakarta",
+      "output": "assets/thumbnails/sicile-jakarta-b9e91715.webp",
+      "source": "Website/Food And Beverage/Sicile Jakarta/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Simetri Coffee Roasters Cibubur",
+      "output": "assets/thumbnails/simetri-coffee-roasters-cibubur-b1a68d5e.webp",
+      "source": "Website/Food And Beverage/Simetri Coffee Roasters Cibubur/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Single Origin Cafe, Roastery and Chocolatier",
+      "output": "assets/thumbnails/single-origin-cafe-roastery-and-chocolatier-91d0ecf4.webp",
+      "source": "Website/Food And Beverage/Single Origin Cafe, Roastery and Chocolatier/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sirlo Steak Bintaro",
+      "output": "assets/thumbnails/sirlo-steak-bintaro-97d7d0d4.webp",
+      "source": "Website/Food And Beverage/Sirlo Steak Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sisterhook Cafe",
+      "output": "assets/thumbnails/sisterhook-cafe-fe33125c.webp",
+      "source": "Website/Food And Beverage/Sisterhook Cafe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Skoee (Some Kind Of Coffee)",
+      "output": "assets/thumbnails/skoee-some-kind-of-coffee-2c266049.webp",
+      "source": "Website/Food And Beverage/Skoee (Some Kind Of Coffee)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sky Pasta",
+      "output": "assets/thumbnails/sky-pasta-e6feee09.webp",
+      "source": "Website/Food And Beverage/Sky Pasta/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SLAB - Steak Lab Bintaro",
+      "output": "assets/thumbnails/slab-steak-lab-bintaro-61b1ff4f.webp",
+      "source": "Website/Food And Beverage/SLAB - Steak Lab Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Smiljan Coffee",
+      "output": "assets/thumbnails/smiljan-coffee-7e7abed3.webp",
+      "source": "Website/Food And Beverage/Smiljan Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Songfang Kopi",
+      "output": "assets/thumbnails/songfang-kopi-006eefa7.webp",
+      "source": "Website/Food And Beverage/Songfang Kopi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sop Sapi Minarwati (Cipete Raya)",
+      "output": "assets/thumbnails/sop-sapi-minarwati-cipete-raya-bf10a039.webp",
+      "source": "Website/Food And Beverage/Sop Sapi Minarwati (Cipete Raya)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Soto Ayam Ambengan. Cak Jito",
+      "output": "assets/thumbnails/soto-ayam-ambengan-cak-jito-9288561a.webp",
+      "source": "Website/Food And Beverage/Soto Ayam Ambengan. Cak Jito/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Srasi Coffee and Eatery - Bintaro",
+      "output": "assets/thumbnails/srasi-coffee-and-eatery-bintaro-d4412e89.webp",
+      "source": "Website/Food And Beverage/Srasi Coffee and Eatery - Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sssince Coffee and Co",
+      "output": "assets/thumbnails/sssince-coffee-and-co-b558b9ed.webp",
+      "source": "Website/Food And Beverage/Sssince Coffee and Co/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Steak Industry Gading Serpong",
+      "output": "assets/thumbnails/steak-industry-gading-serpong-6ee31f2e.webp",
+      "source": "Website/Food And Beverage/Steak Industry Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Steak On Top BSD",
+      "output": "assets/thumbnails/steak-on-top-bsd-ed45f2c1.webp",
+      "source": "Website/Food And Beverage/Steak On Top BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Steak Sultan 99",
+      "output": "assets/thumbnails/steak-sultan-99-02a5133e.webp",
+      "source": "Website/Food And Beverage/Steak Sultan 99/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Stickusteak By Chef Nats SouthCity Pondok Cabe",
+      "output": "assets/thumbnails/stickusteak-by-chef-nats-southcity-pondok-cabe-4eebaeec.webp",
+      "source": "Website/Food And Beverage/Stickusteak By Chef Nats SouthCity Pondok Cabe/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Strangers Reunion Coffee Bintaro",
+      "output": "assets/thumbnails/strangers-reunion-coffee-bintaro-7f305ed7.webp",
+      "source": "Website/Food And Beverage/Strangers Reunion Coffee Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Strata Kopi",
+      "output": "assets/thumbnails/strata-kopi-b41f8864.webp",
+      "source": "Website/Food And Beverage/Strata Kopi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Suar Ruang Coffee Ground",
+      "output": "assets/thumbnails/suar-ruang-coffee-ground-dfe77e1a.webp",
+      "source": "Website/Food And Beverage/Suar Ruang Coffee Ground/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sudutsatu Bintaro",
+      "output": "assets/thumbnails/sudutsatu-bintaro-51c96d3f.webp",
+      "source": "Website/Food And Beverage/Sudutsatu Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sugar Bloom Atelier",
+      "output": "assets/thumbnails/sugar-bloom-atelier-523bc0c1.webp",
+      "source": "Website/Food And Beverage/Sugar Bloom Atelier/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sumber Asli Kuliner Tempo Dulu",
+      "output": "assets/thumbnails/sumber-asli-kuliner-tempo-dulu-8ee5d1f0.webp",
+      "source": "Website/Food And Beverage/Sumber Asli Kuliner Tempo Dulu/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sushi Stop , Pasar Minggu",
+      "output": "assets/thumbnails/sushi-stop-pasar-minggu-c0df04c9.webp",
+      "source": "Website/Food And Beverage/Sushi Stop , Pasar Minggu/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sushi Yay! - Fatmawati",
+      "output": "assets/thumbnails/sushi-yay-fatmawati-ef877936.webp",
+      "source": "Website/Food And Beverage/Sushi Yay! - Fatmawati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Talaga Sampireun Bintaro",
+      "output": "assets/thumbnails/talaga-sampireun-bintaro-1cf5467a.webp",
+      "source": "Website/Food And Beverage/Talaga Sampireun Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Talakopi",
+      "output": "assets/thumbnails/talakopi-49b0be51.webp",
+      "source": "Website/Food And Beverage/Talakopi/photos/tk_15.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tamanteras",
+      "output": "assets/thumbnails/tamanteras-6756d309.webp",
+      "source": "Website/Food And Beverage/Tamanteras/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tempat Ngupi",
+      "output": "assets/thumbnails/tempat-ngupi-b6a5f7e6.webp",
+      "source": "Website/Food And Beverage/Tempat Ngupi/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Teras Angkasa - Coffee Billiard Live Music Cafe Parung",
+      "output": "assets/thumbnails/teras-angkasa-coffee-billiard-live-music-cafe-parung-df502858.webp",
+      "source": "Website/Food And Beverage/Teras Angkasa - Coffee Billiard Live Music Cafe Parung/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Teras Koempoel - Gading Serpong",
+      "output": "assets/thumbnails/teras-koempoel-gading-serpong-3d74c4d6.webp",
+      "source": "Website/Food And Beverage/Teras Koempoel - Gading Serpong/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Caffeine Theory (TCT)",
+      "output": "assets/thumbnails/the-caffeine-theory-tct-d7bc2634.webp",
+      "source": "Website/Food And Beverage/The Caffeine Theory (TCT)/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Leaf Restaurant @The Quantis Clubhouse, BSD City",
+      "output": "assets/thumbnails/the-leaf-restaurant-the-quantis-clubhouse-bsd-city-963d5217.webp",
+      "source": "Website/Food And Beverage/The Leaf Restaurant @The Quantis Clubhouse, BSD City/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Luna Kota Wisata",
+      "output": "assets/thumbnails/the-luna-kota-wisata-10d09bfd.webp",
+      "source": "Website/Food And Beverage/The Luna Kota Wisata/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Maple Brasserie",
+      "output": "assets/thumbnails/the-maple-brasserie-7291735e.webp",
+      "source": "Website/Food And Beverage/The Maple Brasserie/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Rica Resto - Bogor",
+      "output": "assets/thumbnails/the-rica-resto-bogor-81475105.webp",
+      "source": "Website/Food And Beverage/The Rica Resto - Bogor/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Titik Desa",
+      "output": "assets/thumbnails/titik-desa-3dfa5b09.webp",
+      "source": "Website/Food And Beverage/Titik Desa/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tongdir Resto and Coffee",
+      "output": "assets/thumbnails/tongdir-resto-and-coffee-470b9fb2.webp",
+      "source": "Website/Food And Beverage/Tongdir Resto and Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuju Tuju Coffee",
+      "output": "assets/thumbnails/tuju-tuju-coffee-e811c211.webp",
+      "source": "Website/Food And Beverage/Tuju Tuju Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuku Ramen Pondok Ranji",
+      "output": "assets/thumbnails/tuku-ramen-pondok-ranji-7e221b4b.webp",
+      "source": "Website/Food And Beverage/Tuku Ramen Pondok Ranji/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuwuh Treats Cafe, Bintaro",
+      "output": "assets/thumbnails/tuwuh-treats-cafe-bintaro-153900a5.webp",
+      "source": "Website/Food And Beverage/Tuwuh Treats Cafe, Bintaro/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/VanGard Kitchen and Garden",
+      "output": "assets/thumbnails/vangard-kitchen-and-garden-ae31a431.webp",
+      "source": "Website/Food And Beverage/VanGard Kitchen and Garden/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Vultures Nest Restaurant",
+      "output": "assets/thumbnails/vultures-nest-restaurant-791949ff.webp",
+      "source": "Website/Food And Beverage/Vultures Nest Restaurant/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WARJON - Pasar Minggu",
+      "output": "assets/thumbnails/warjon-pasar-minggu-734797d1.webp",
+      "source": "Website/Food And Beverage/WARJON - Pasar Minggu/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warkombi Telaga Kahuripan",
+      "output": "assets/thumbnails/warkombi-telaga-kahuripan-4d2b072a.webp",
+      "source": "Website/Food And Beverage/Warkombi Telaga Kahuripan/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warnoes Margonda",
+      "output": "assets/thumbnails/warnoes-margonda-8e89ec1e.webp",
+      "source": "Website/Food And Beverage/Warnoes Margonda/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Waroenk Asap Seafood",
+      "output": "assets/thumbnails/waroenk-asap-seafood-209532fa.webp",
+      "source": "Website/Food And Beverage/Waroenk Asap Seafood/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warpang Resto ( waroeng nya pencinta ramen )",
+      "output": "assets/thumbnails/warpang-resto-waroeng-nya-pencinta-ramen-f09bf399.webp",
+      "source": "Website/Food And Beverage/Warpang Resto ( waroeng nya pencinta ramen )/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Bambu Kuning Parigi Baru",
+      "output": "assets/thumbnails/warung-bambu-kuning-parigi-baru-87df66ad.webp",
+      "source": "Website/Food And Beverage/Warung Bambu Kuning Parigi Baru/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Betawie H Apen",
+      "output": "assets/thumbnails/warung-betawie-h-apen-53591dce.webp",
+      "source": "Website/Food And Beverage/Warung Betawie H Apen/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Bu Kris Fatmawati",
+      "output": "assets/thumbnails/warung-bu-kris-fatmawati-98184369.webp",
+      "source": "Website/Food And Beverage/Warung Bu Kris Fatmawati/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Kopi Tepi Sungai",
+      "output": "assets/thumbnails/warung-kopi-tepi-sungai-e447ec09.webp",
+      "source": "Website/Food And Beverage/Warung Kopi Tepi Sungai/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WARUNG NAMU Sup Ikan Goreng Sanur and Coffee BSD",
+      "output": "assets/thumbnails/warung-namu-sup-ikan-goreng-sanur-and-coffee-bsd-f70d9a43.webp",
+      "source": "Website/Food And Beverage/WARUNG NAMU Sup Ikan Goreng Sanur and Coffee BSD/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Sambal Samuda",
+      "output": "assets/thumbnails/warung-sambal-samuda-bbcbc26c.webp",
+      "source": "Website/Food And Beverage/Warung Sambal Samuda/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WDR coffee",
+      "output": "assets/thumbnails/wdr-coffee-532c6aad.webp",
+      "source": "Website/Food And Beverage/WDR coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Westloop - Coffee and Kitchen",
+      "output": "assets/thumbnails/westloop-coffee-and-kitchen-cb4fcc71.webp",
+      "source": "Website/Food And Beverage/Westloop - Coffee and Kitchen/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WINGLOK Hongkong Dimsum Antasari",
+      "output": "assets/thumbnails/winglok-hongkong-dimsum-antasari-36897585.webp",
+      "source": "Website/Food And Beverage/WINGLOK Hongkong Dimsum Antasari/photos/winglok_01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Woody House Steak 12",
+      "output": "assets/thumbnails/woody-house-steak-12-fc536037.webp",
+      "source": "Website/Food And Beverage/Woody House Steak 12/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Yakudo Ramen",
+      "output": "assets/thumbnails/yakudo-ramen-8725ded3.webp",
+      "source": "Website/Food And Beverage/Yakudo Ramen/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Yard Coffee",
+      "output": "assets/thumbnails/yard-coffee-85087d0f.webp",
+      "source": "Website/Food And Beverage/Yard Coffee/photos/m16x9_p01.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/ARTHA PROPERTY BANDUNG",
+      "output": "assets/thumbnails/artha-property-bandung-fb52b3d2.webp",
+      "source": "Website/Property/ARTHA PROPERTY BANDUNG/photos/w_p06.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Best Property Medan",
+      "output": "assets/thumbnails/best-property-medan-83b8fc67.webp",
+      "source": "Website/Property/Best Property Medan/photos/t_p04.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Destiny Realty",
+      "output": "assets/thumbnails/destiny-realty-62aef2bf.webp",
+      "source": "Website/Property/Destiny Realty/photos/w_p05.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Dijual Sopian Rumah dan Kontrakan",
+      "output": "assets/thumbnails/dijual-sopian-rumah-dan-kontrakan-9e21213f.webp",
+      "source": "Website/Property/Dijual Sopian Rumah dan Kontrakan/photos/w_p03.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Jual Rumah Joglo",
+      "output": "assets/thumbnails/jual-rumah-joglo-ea59111b.webp",
+      "source": "Website/Property/Jual Rumah Joglo/photos/w_p05.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Properti online Depok-Bogor",
+      "output": "assets/thumbnails/properti-online-depok-bogor-b6623b50.webp",
+      "source": "Website/Property/Properti online Depok-Bogor/photos/w_p06.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Properti Syariah Murah",
+      "output": "assets/thumbnails/properti-syariah-murah-12eb615e.webp",
+      "source": "Website/Property/Properti Syariah Murah/photos/w_p09.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/Property Bali Agent",
+      "output": "assets/thumbnails/property-bali-agent-58dafbc5.webp",
+      "source": "Website/Property/Property Bali Agent/photos/w_p08.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/PROPERTY SURABAYA MALANG",
+      "output": "assets/thumbnails/property-surabaya-malang-4ddba468.webp",
+      "source": "Website/Property/PROPERTY SURABAYA MALANG/photos/m_p06.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Property/THE FLORA UNGASAN",
+      "output": "assets/thumbnails/the-flora-ungasan-c76acc13.webp",
+      "source": "Website/Property/THE FLORA UNGASAN/images/hero-aerial.jpg",
+      "kind": "source-image"
+    },
+    {
+      "sourceFolder": "Website/Sport & Fitness/Sou Pilates",
+      "output": "assets/thumbnails/sou-pilates-7a9c4902.svg",
+      "source": null,
+      "kind": "placeholder"
+    },
+    {
+      "sourceFolder": "Website/Travel & Tourism/D'calton Courteous Hotel",
+      "output": "assets/thumbnails/d-calton-courteous-hotel-12ddf07b.svg",
+      "source": null,
+      "kind": "placeholder"
+    },
+    {
+      "sourceFolder": "Website/Travel & Tourism/Hotel Kuretakeso Kemang",
+      "output": "assets/thumbnails/hotel-kuretakeso-kemang-a484225f.svg",
+      "source": null,
+      "kind": "placeholder"
+    }
+  ],
+  "portrait": {
+    "source": "My formal picture.jpeg",
+    "output": "assets/portrait.webp",
+    "cropped": false
+  },
+  "app": {
+    "searchedRoot": "Apps/MakeMeSmart",
+    "candidates": 0,
+    "invalid": [],
+    "status": "unavailable: no valid APK found in the supplied MakeMeSmart project"
+  },
+  "exclusions": [
+    {
+      "sourceFolder": "Website/Ai & math/AI mathcam",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Example Startup/Scodes",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bahasa Alam - back to nature café BSD City",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cafe and Resto Papa Bobs",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Emados Bintaro",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Galaxy Space",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Good Grillin",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Green Fox (Coffee-Kitchen-Gelato)",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/HAKA Dimsum Shop Alam Sutera",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Lawasan Ciputat",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Le Louvre Patisserie",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Little Contrast Sanggar Hurip",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Lot 9 Cafe & Restaurant",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Remaja Kuring Serpong",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/ROTI BAKAR KEIBAR",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Rumah Makan Saung Babeh Setu",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sameruf grilled coffee rubbed steak pamulang",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sositi Coffee and Bar",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Three Uncles BSD",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuan Muda Restoran",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Kemuning",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Sunda Bumi Sadayana BSD",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Property/Blessing Property Semarang",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    },
+    {
+      "sourceFolder": "Website/Travel & Tourism/SAKURA LIVING",
+      "reason": "No runnable local HTML entrypoint; empty, design-only, or unbuilt source project."
+    }
+  ],
+  "entries": [
+    {
+      "sourceFolder": "Website/E-commerce Online Store/KICKS",
+      "entrypoint": "Website/E-commerce Online Store/KICKS/KICKS-front-end-v2/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/E-commerce Online Store/Mwehe",
+      "entrypoint": "Website/E-commerce Online Store/Mwehe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Example Startup/StudyFlow",
+      "entrypoint": "Website/Example Startup/StudyFlow/legacy/landing.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Example Startup/Tani",
+      "entrypoint": "Website/Example Startup/Tani/Web/tani-landing.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/330 KOPI",
+      "entrypoint": "Website/Food And Beverage/330 KOPI/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/5cm Coffe and Eatery (Cabang Depok)",
+      "entrypoint": "Website/Food And Beverage/5cm Coffe and Eatery (Cabang Depok)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Amfiteater Coffee and Eatery, BSD",
+      "entrypoint": "Website/Food And Beverage/Amfiteater Coffee and Eatery, BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Aming Coffee Summarecon Mall Bekasi",
+      "entrypoint": "Website/Food And Beverage/Aming Coffee Summarecon Mall Bekasi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Amy and Cake (Bintaro)",
+      "entrypoint": "Website/Food And Beverage/Amy and Cake (Bintaro)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Aneka Seafood 38 BSD",
+      "entrypoint": "Website/Food And Beverage/Aneka Seafood 38 BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/AROEM RESTO and CAFE BOGOR",
+      "entrypoint": "Website/Food And Beverage/AROEM RESTO and CAFE BOGOR/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Aruku Coffee and Studio Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Aruku Coffee and Studio Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/aruma",
+      "entrypoint": "Website/Food And Beverage/aruma/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Asland Cake Bakery Pamulang",
+      "entrypoint": "Website/Food And Beverage/Asland Cake Bakery Pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Asuka Brewing and Space",
+      "entrypoint": "Website/Food And Beverage/Asuka Brewing and Space/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Avenue Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Avenue Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ayam Goreng Kampung & Sop Buntut Pak Arief BSD",
+      "entrypoint": "Website/Food And Beverage/Ayam Goreng Kampung & Sop Buntut Pak Arief BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ayam Goreng Simpang Siliwangi",
+      "entrypoint": "Website/Food And Beverage/Ayam Goreng Simpang Siliwangi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bajawa Flores NTT Depok",
+      "entrypoint": "Website/Food And Beverage/Bajawa Flores NTT Depok/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bakerman+ Ashta",
+      "entrypoint": "Website/Food And Beverage/Bakerman+ Ashta/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Balboni Ristorante",
+      "entrypoint": "Website/Food And Beverage/Balboni Ristorante/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bari Ramen",
+      "entrypoint": "Website/Food And Beverage/Bari Ramen/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/BATAM SEAFOOD PERANAKAN Spesialis Kari Ikan Resto Seafood Terenak di Gading Serpong Halal",
+      "entrypoint": "Website/Food And Beverage/BATAM SEAFOOD PERANAKAN Spesialis Kari Ikan Resto Seafood Terenak di Gading Serpong Halal/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bebek Boedjang - BSD Serpong",
+      "entrypoint": "Website/Food And Beverage/Bebek Boedjang - BSD Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bento Kopi Ciputat",
+      "entrypoint": "Website/Food And Beverage/Bento Kopi Ciputat/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Beranda Kahyangan",
+      "entrypoint": "Website/Food And Beverage/Beranda Kahyangan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Berga Coffee",
+      "entrypoint": "Website/Food And Beverage/Berga Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/BERKALA COFFEE AMPERA",
+      "entrypoint": "Website/Food And Beverage/BERKALA COFFEE AMPERA/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/BERLARIS KOPI DAN RESTO",
+      "entrypoint": "Website/Food And Beverage/BERLARIS KOPI DAN RESTO/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Black Campaign Coffee",
+      "entrypoint": "Website/Food And Beverage/Black Campaign Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Blue House Cafe",
+      "entrypoint": "Website/Food And Beverage/Blue House Cafe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bluish Cafe Bar",
+      "entrypoint": "Website/Food And Beverage/Bluish Cafe Bar/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bluperry Coffee",
+      "entrypoint": "Website/Food And Beverage/Bluperry Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bolo essential",
+      "entrypoint": "Website/Food And Beverage/Bolo essential/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/brownline - Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/brownline - Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bubur Angke THI - Puri Pesanggrahan",
+      "entrypoint": "Website/Food And Beverage/Bubur Angke THI - Puri Pesanggrahan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bumbu Karaeng Seafood Makassar",
+      "entrypoint": "Website/Food And Beverage/Bumbu Karaeng Seafood Makassar/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bun Pao",
+      "entrypoint": "Website/Food And Beverage/Bun Pao/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Bunna Senopati",
+      "entrypoint": "Website/Food And Beverage/Bunna Senopati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/C for Cafe Karawaci",
+      "entrypoint": "Website/Food And Beverage/C for Cafe Karawaci/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cafe Tutur Bekasi",
+      "entrypoint": "Website/Food And Beverage/Cafe Tutur Bekasi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Canabeans Alam Sutera",
+      "entrypoint": "Website/Food And Beverage/Canabeans Alam Sutera/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Candik Ayu Bakso Rahayu",
+      "entrypoint": "Website/Food And Beverage/Candik Ayu Bakso Rahayu/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Casa Plants and Coffee",
+      "entrypoint": "Website/Food And Beverage/Casa Plants and Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/CelCo Toko Kopi Alam Sutera",
+      "entrypoint": "Website/Food And Beverage/CelCo Toko Kopi Alam Sutera/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chefs Kitchen Live Seafood Fatmawati",
+      "entrypoint": "Website/Food And Beverage/Chefs Kitchen Live Seafood Fatmawati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chloes Coffee",
+      "entrypoint": "Website/Food And Beverage/Chloes Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chocban Jakarta Senopati",
+      "entrypoint": "Website/Food And Beverage/Chocban Jakarta Senopati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Chong Qing Hot Pot Senopati",
+      "entrypoint": "Website/Food And Beverage/Chong Qing Hot Pot Senopati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Coffee Ya",
+      "entrypoint": "Website/Food And Beverage/Coffee Ya/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/COFFEERIGHT Cibubur",
+      "entrypoint": "Website/Food And Beverage/COFFEERIGHT Cibubur/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cotta Haus Pamulang",
+      "entrypoint": "Website/Food And Beverage/Cotta Haus Pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Couz Steak House",
+      "entrypoint": "Website/Food And Beverage/Couz Steak House/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Crackling Serpong (Crispy Pork Belly)",
+      "entrypoint": "Website/Food And Beverage/Crackling Serpong (Crispy Pork Belly)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/CRALOTS Bakery and Cafe",
+      "entrypoint": "Website/Food And Beverage/CRALOTS Bakery and Cafe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Cuil Cafe and Eatery",
+      "entrypoint": "Website/Food And Beverage/Cuil Cafe and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/DAGOSTEAK KULINER PAMULANG",
+      "entrypoint": "Website/Food And Beverage/DAGOSTEAK KULINER PAMULANG/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/DANDYco Bakery Serpong",
+      "entrypoint": "Website/Food And Beverage/DANDYco Bakery Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Dapur Bandha",
+      "entrypoint": "Website/Food And Beverage/Dapur Bandha/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/de flore, Dine and Drink",
+      "entrypoint": "Website/Food And Beverage/de flore, Dine and Drink/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/December Coffee",
+      "entrypoint": "Website/Food And Beverage/December Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/deClan Signature Cipete",
+      "entrypoint": "Website/Food And Beverage/deClan Signature Cipete/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/DEste Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/DEste Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Di Sebelah Rumah IDN",
+      "entrypoint": "Website/Food And Beverage/Di Sebelah Rumah IDN/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Dimsum Kebul Permata",
+      "entrypoint": "Website/Food And Beverage/Dimsum Kebul Permata/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Djajan Seafood Pamulang",
+      "entrypoint": "Website/Food And Beverage/Djajan Seafood Pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Domico Coffee",
+      "entrypoint": "Website/Food And Beverage/Domico Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/El Profesor Steakhouse - T Space Bintaro",
+      "entrypoint": "Website/Food And Beverage/El Profesor Steakhouse - T Space Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Emados Lebak Bulus",
+      "entrypoint": "Website/Food And Beverage/Emados Lebak Bulus/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Etera Tebet",
+      "entrypoint": "Website/Food And Beverage/Etera Tebet/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gamare Coffee",
+      "entrypoint": "Website/Food And Beverage/Gamare Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GIOI Senopati",
+      "entrypoint": "Website/Food And Beverage/GIOI Senopati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GLOBAL BAKERY BENDA RAYA",
+      "entrypoint": "Website/Food And Beverage/GLOBAL BAKERY BENDA RAYA/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Golden Sugar Patissier",
+      "entrypoint": "Website/Food And Beverage/Golden Sugar Patissier/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GOOD TASTE - The Barn BSD",
+      "entrypoint": "Website/Food And Beverage/GOOD TASTE - The Barn BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Graha Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Graha Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/GRAND WINGHENG Hongkong Dimsum Elvee",
+      "entrypoint": "Website/Food And Beverage/GRAND WINGHENG Hongkong Dimsum Elvee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gubug Berkah Resto BSD",
+      "entrypoint": "Website/Food And Beverage/Gubug Berkah Resto BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gubug Berkah Resto BSD ( Wedding Resto )",
+      "entrypoint": "Website/Food And Beverage/Gubug Berkah Resto BSD ( Wedding Resto )/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Gumati Resto Khas Sunda",
+      "entrypoint": "Website/Food And Beverage/Gumati Resto Khas Sunda/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hachi garden ampera",
+      "entrypoint": "Website/Food And Beverage/Hachi garden ampera/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hadramiah Restaurant Arabic and Indonesian Food",
+      "entrypoint": "Website/Food And Beverage/Hadramiah Restaurant Arabic and Indonesian Food/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hang Tuah - Pesanggrahan",
+      "entrypoint": "Website/Food And Beverage/Hang Tuah - Pesanggrahan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hause Rooftop Senopati",
+      "entrypoint": "Website/Food And Beverage/Hause Rooftop Senopati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Hava Restaurant & Cafe Bintaro",
+      "entrypoint": "Website/Food And Beverage/Hava Restaurant & Cafe Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/HOZ Pasta Pamulang",
+      "entrypoint": "Website/Food And Beverage/HOZ Pasta Pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ikira Japanese Steakhouse",
+      "entrypoint": "Website/Food And Beverage/Ikira Japanese Steakhouse/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Interaksi Space - Pamulang",
+      "entrypoint": "Website/Food And Beverage/Interaksi Space - Pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/iSTEAKu - Green Terrace",
+      "entrypoint": "Website/Food And Beverage/iSTEAKu - Green Terrace/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jalarasa, The Breeze BSD",
+      "entrypoint": "Website/Food And Beverage/Jalarasa, The Breeze BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jasunda",
+      "entrypoint": "Website/Food And Beverage/Jasunda/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jasunda Bintaro",
+      "entrypoint": "Website/Food And Beverage/Jasunda Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Javatoscana Garden Resto and Cafe",
+      "entrypoint": "Website/Food And Beverage/Javatoscana Garden Resto and Cafe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jiwan Coffee and Things Cibubur",
+      "entrypoint": "Website/Food And Beverage/Jiwan Coffee and Things Cibubur/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jj Ramen",
+      "entrypoint": "Website/Food And Beverage/Jj Ramen/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Joffi Ramen Bintaro",
+      "entrypoint": "Website/Food And Beverage/Joffi Ramen Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Jongcrue Cafe ( Coffee and Eatery )By Kopilimana",
+      "entrypoint": "Website/Food And Beverage/Jongcrue Cafe ( Coffee and Eatery )By Kopilimana/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Justus Steak House Bintaro",
+      "entrypoint": "Website/Food And Beverage/Justus Steak House Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/k.l.e.i Creative Space and Eatery",
+      "entrypoint": "Website/Food And Beverage/k.l.e.i Creative Space and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kaizen Heritage 8.0 - Kaizen Heritage Cibubur",
+      "entrypoint": "Website/Food And Beverage/Kaizen Heritage 8.0 - Kaizen Heritage Cibubur/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kalia Restaurant",
+      "entrypoint": "Website/Food And Beverage/Kalia Restaurant/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kampung Kecil Ciputat",
+      "entrypoint": "Website/Food And Beverage/Kampung Kecil Ciputat/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kataramen Tebet",
+      "entrypoint": "Website/Food And Beverage/Kataramen Tebet/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kaybun Dimsum",
+      "entrypoint": "Website/Food And Beverage/Kaybun Dimsum/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kebon Kita Space Coffee and Eatery Serpong Tangerang",
+      "entrypoint": "Website/Food And Beverage/Kebon Kita Space Coffee and Eatery Serpong Tangerang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kedai Juanda 105 Bekasi (Steak, Nasi Goreng, Jus Buah)",
+      "entrypoint": "Website/Food And Beverage/Kedai Juanda 105 Bekasi (Steak, Nasi Goreng, Jus Buah)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kedai Mie Tjap 1000 Tahun, Senopati",
+      "entrypoint": "Website/Food And Beverage/Kedai Mie Tjap 1000 Tahun, Senopati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kenyangin Resto",
+      "entrypoint": "Website/Food And Beverage/Kenyangin Resto/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kieta Roastery",
+      "entrypoint": "Website/Food And Beverage/Kieta Roastery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kimukatsu Bintaro Exchange",
+      "entrypoint": "Website/Food And Beverage/Kimukatsu Bintaro Exchange/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kios Ojo Keos",
+      "entrypoint": "Website/Food And Beverage/Kios Ojo Keos/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Koat Coffee Depok",
+      "entrypoint": "Website/Food And Beverage/Koat Coffee Depok/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Koffie Home",
+      "entrypoint": "Website/Food And Beverage/Koffie Home/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Djoe",
+      "entrypoint": "Website/Food And Beverage/Kopi Djoe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Klotok Pamulang",
+      "entrypoint": "Website/Food And Beverage/Kopi Klotok Pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Melantjong",
+      "entrypoint": "Website/Food And Beverage/Kopi Melantjong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Nu Sae, Cibubur",
+      "entrypoint": "Website/Food And Beverage/Kopi Nu Sae, Cibubur/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Per Hari (Kopi-Hari) Pengasinan",
+      "entrypoint": "Website/Food And Beverage/Kopi Per Hari (Kopi-Hari) Pengasinan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Saking Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Kopi Saking Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi solusinya pamulang",
+      "entrypoint": "Website/Food And Beverage/Kopi solusinya pamulang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopi Tiga Gelas - KTG",
+      "entrypoint": "Website/Food And Beverage/Kopi Tiga Gelas - KTG/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kopiano Coffee and Pastry - BSD",
+      "entrypoint": "Website/Food And Beverage/Kopiano Coffee and Pastry - BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/KOPITONITO",
+      "entrypoint": "Website/Food And Beverage/KOPITONITO/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Koultoura Coffee",
+      "entrypoint": "Website/Food And Beverage/Koultoura Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/KOZI Coffee Bekasi",
+      "entrypoint": "Website/Food And Beverage/KOZI Coffee Bekasi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kulumanu Kopi",
+      "entrypoint": "Website/Food And Beverage/Kulumanu Kopi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Kyuka Ramen - Blok M",
+      "entrypoint": "Website/Food And Beverage/Kyuka Ramen - Blok M/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/La Tierra XII Cafe and Bistro",
+      "entrypoint": "Website/Food And Beverage/La Tierra XII Cafe and Bistro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ladang Padi",
+      "entrypoint": "Website/Food And Beverage/Ladang Padi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Laforza Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Laforza Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/LaWang Jogja Resto",
+      "entrypoint": "Website/Food And Beverage/LaWang Jogja Resto/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Leko The Breeze",
+      "entrypoint": "Website/Food And Beverage/Leko The Breeze/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Linea Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Linea Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Little Talk Bistro",
+      "entrypoint": "Website/Food And Beverage/Little Talk Bistro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Lobster18a Kemang",
+      "entrypoint": "Website/Food And Beverage/Lobster18a Kemang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Loteng Cafe Modernland",
+      "entrypoint": "Website/Food And Beverage/Loteng Cafe Modernland/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Lynea Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Lynea Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAESTRO FOREST",
+      "entrypoint": "Website/Food And Beverage/MAESTRO FOREST/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Main Street Dining and Coffee Mega Billiard Kota Wisata",
+      "entrypoint": "Website/Food And Beverage/Main Street Dining and Coffee Mega Billiard Kota Wisata/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAISON TATEI - BINTARO",
+      "entrypoint": "Website/Food And Beverage/MAISON TATEI - BINTARO/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAKAN BAWAH POHON",
+      "entrypoint": "Website/Food And Beverage/MAKAN BAWAH POHON/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Makan di Tebet",
+      "entrypoint": "Website/Food And Beverage/Makan di Tebet/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Manosa Cafe and Resto",
+      "entrypoint": "Website/Food And Beverage/Manosa Cafe and Resto/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MAOI coffee",
+      "entrypoint": "Website/Food And Beverage/MAOI coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Mayasari Lebak Bulus - Bakery Oleh Oleh Khas Bandung",
+      "entrypoint": "Website/Food And Beverage/Mayasari Lebak Bulus - Bakery Oleh Oleh Khas Bandung/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MEGA BAKERY BSD",
+      "entrypoint": "Website/Food And Beverage/MEGA BAKERY BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Menjulang Kedai Kopi Eps. 2",
+      "entrypoint": "Website/Food And Beverage/Menjulang Kedai Kopi Eps. 2/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Merene Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Merene Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Metavoya Of Foodstep",
+      "entrypoint": "Website/Food And Beverage/Metavoya Of Foodstep/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Mixmi Tangerang",
+      "entrypoint": "Website/Food And Beverage/Mixmi Tangerang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MONGSIM Bakery and Coffee",
+      "entrypoint": "Website/Food And Beverage/MONGSIM Bakery and Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Moru - Supermal Karawaci",
+      "entrypoint": "Website/Food And Beverage/Moru - Supermal Karawaci/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Mostly Coffee and Kitchen",
+      "entrypoint": "Website/Food And Beverage/Mostly Coffee and Kitchen/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/MUHI. Rasa Lokal and Kopi",
+      "entrypoint": "Website/Food And Beverage/MUHI. Rasa Lokal and Kopi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Muyen Coffee Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Muyen Coffee Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/NAHDI CHICKEN EXPRESS GRAHA BINTARO",
+      "entrypoint": "Website/Food And Beverage/NAHDI CHICKEN EXPRESS GRAHA BINTARO/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Naked Patty - Bintaro Permai",
+      "entrypoint": "Website/Food And Beverage/Naked Patty - Bintaro Permai/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/NAMO Gading Serpong Arcadia",
+      "entrypoint": "Website/Food And Beverage/NAMO Gading Serpong Arcadia/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Nekorenji Ramen Jakarta",
+      "entrypoint": "Website/Food And Beverage/Nekorenji Ramen Jakarta/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Nongkitiam - Bintaro",
+      "entrypoint": "Website/Food And Beverage/Nongkitiam - Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Nustro - Tebet Skyline",
+      "entrypoint": "Website/Food And Beverage/Nustro - Tebet Skyline/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Oddys Coffee and Eatery Rawa Buntu BSD",
+      "entrypoint": "Website/Food And Beverage/Oddys Coffee and Eatery Rawa Buntu BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Okuzono Japanese Dining",
+      "entrypoint": "Website/Food And Beverage/Okuzono Japanese Dining/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/OLD N NEW BAKERY Alam Sutera",
+      "entrypoint": "Website/Food And Beverage/OLD N NEW BAKERY Alam Sutera/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/One G's Cafe and Resto",
+      "entrypoint": "Website/Food And Beverage/One G's Cafe and Resto/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/ORKA Coffee - Tebet",
+      "entrypoint": "Website/Food And Beverage/ORKA Coffee - Tebet/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Otella & Buranchi Alam Sutera",
+      "entrypoint": "Website/Food And Beverage/Otella & Buranchi Alam Sutera/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Paling Restoran",
+      "entrypoint": "Website/Food And Beverage/Paling Restoran/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pawon Ayoe Dine and Brew",
+      "entrypoint": "Website/Food And Beverage/Pawon Ayoe Dine and Brew/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pawonaga",
+      "entrypoint": "Website/Food And Beverage/Pawonaga/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pecel Pincuk Godong Ijo 9",
+      "entrypoint": "Website/Food And Beverage/Pecel Pincuk Godong Ijo 9/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Pejaten Huis Coffee",
+      "entrypoint": "Website/Food And Beverage/Pejaten Huis Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Plate Palate Reservation",
+      "entrypoint": "Website/Food And Beverage/Plate Palate Reservation/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Platon Coffee",
+      "entrypoint": "Website/Food And Beverage/Platon Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/QUARTER LIFE COFFEE and EATERY",
+      "entrypoint": "Website/Food And Beverage/QUARTER LIFE COFFEE and EATERY/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ramen Ayam JonJon - K-Hub",
+      "entrypoint": "Website/Food And Beverage/Ramen Ayam JonJon - K-Hub/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Resto 33 Khas Kuala Lumpur Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Resto 33 Khas Kuala Lumpur Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Resto Boros Boemboe",
+      "entrypoint": "Website/Food And Beverage/Resto Boros Boemboe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Roemah Kraton",
+      "entrypoint": "Website/Food And Beverage/Roemah Kraton/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Roji Ramen Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Roji Ramen Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ruang Jenuh Coffee",
+      "entrypoint": "Website/Food And Beverage/Ruang Jenuh Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Ruang Konspirasi - KOPI + INSPIRASI",
+      "entrypoint": "Website/Food And Beverage/Ruang Konspirasi - KOPI + INSPIRASI/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Rumah TAPI Ciputat",
+      "entrypoint": "Website/Food And Beverage/Rumah TAPI Ciputat/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SAE EAT and POTTERY GADING SERPONG",
+      "entrypoint": "Website/Food And Beverage/SAE EAT and POTTERY GADING SERPONG/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sakuta Coffee",
+      "entrypoint": "Website/Food And Beverage/Sakuta Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sale Restaurant BSD",
+      "entrypoint": "Website/Food And Beverage/Sale Restaurant BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SAMEDJA",
+      "entrypoint": "Website/Food And Beverage/SAMEDJA/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SamPan Cafe",
+      "entrypoint": "Website/Food And Beverage/SamPan Cafe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Santiga Seafood Abeng Fatmawati",
+      "entrypoint": "Website/Food And Beverage/Santiga Seafood Abeng Fatmawati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sasuki and bbq",
+      "entrypoint": "Website/Food And Beverage/Sasuki and bbq/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Satu Juni Coffee",
+      "entrypoint": "Website/Food And Beverage/Satu Juni Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Saung Abah Ayam Bakar Bambu Bogor",
+      "entrypoint": "Website/Food And Beverage/Saung Abah Ayam Bakar Bambu Bogor/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Saung Kita Ciledug",
+      "entrypoint": "Website/Food And Beverage/Saung Kita Ciledug/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Saybread Bakery and Cafe Cikajang",
+      "entrypoint": "Website/Food And Beverage/Saybread Bakery and Cafe Cikajang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Schuurdeur1928",
+      "entrypoint": "Website/Food And Beverage/Schuurdeur1928/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Se.tujuan Coffee and Eatery",
+      "entrypoint": "Website/Food And Beverage/Se.tujuan Coffee and Eatery/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Seafood One Benhil",
+      "entrypoint": "Website/Food And Beverage/Seafood One Benhil/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Secret Sushi Bintaro Jaya Xchange Mall 2",
+      "entrypoint": "Website/Food And Beverage/Secret Sushi Bintaro Jaya Xchange Mall 2/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sego Tempong Negoro Jagakarsa",
+      "entrypoint": "Website/Food And Beverage/Sego Tempong Negoro Jagakarsa/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sema Coffee",
+      "entrypoint": "Website/Food And Beverage/Sema Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sembilan Cafe Bintaro 9",
+      "entrypoint": "Website/Food And Beverage/Sembilan Cafe Bintaro 9/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Senja Kopi Cibubur",
+      "entrypoint": "Website/Food And Beverage/Senja Kopi Cibubur/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Seroendeng!",
+      "entrypoint": "Website/Food And Beverage/Seroendeng!/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Shabu Siy",
+      "entrypoint": "Website/Food And Beverage/Shabu Siy/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Shem Ramen Signature - BXc Mall 2",
+      "entrypoint": "Website/Food And Beverage/Shem Ramen Signature - BXc Mall 2/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SiCangkir Coffee",
+      "entrypoint": "Website/Food And Beverage/SiCangkir Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sicile Jakarta",
+      "entrypoint": "Website/Food And Beverage/Sicile Jakarta/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Simetri Coffee Roasters Cibubur",
+      "entrypoint": "Website/Food And Beverage/Simetri Coffee Roasters Cibubur/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Single Origin Cafe, Roastery and Chocolatier",
+      "entrypoint": "Website/Food And Beverage/Single Origin Cafe, Roastery and Chocolatier/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sirlo Steak Bintaro",
+      "entrypoint": "Website/Food And Beverage/Sirlo Steak Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sisterhook Cafe",
+      "entrypoint": "Website/Food And Beverage/Sisterhook Cafe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Skoee (Some Kind Of Coffee)",
+      "entrypoint": "Website/Food And Beverage/Skoee (Some Kind Of Coffee)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sky Pasta",
+      "entrypoint": "Website/Food And Beverage/Sky Pasta/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/SLAB - Steak Lab Bintaro",
+      "entrypoint": "Website/Food And Beverage/SLAB - Steak Lab Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Smiljan Coffee",
+      "entrypoint": "Website/Food And Beverage/Smiljan Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Songfang Kopi",
+      "entrypoint": "Website/Food And Beverage/Songfang Kopi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sop Sapi Minarwati (Cipete Raya)",
+      "entrypoint": "Website/Food And Beverage/Sop Sapi Minarwati (Cipete Raya)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Soto Ayam Ambengan. Cak Jito",
+      "entrypoint": "Website/Food And Beverage/Soto Ayam Ambengan. Cak Jito/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Srasi Coffee and Eatery - Bintaro",
+      "entrypoint": "Website/Food And Beverage/Srasi Coffee and Eatery - Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sssince Coffee and Co",
+      "entrypoint": "Website/Food And Beverage/Sssince Coffee and Co/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Steak Industry Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Steak Industry Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Steak On Top BSD",
+      "entrypoint": "Website/Food And Beverage/Steak On Top BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Steak Sultan 99",
+      "entrypoint": "Website/Food And Beverage/Steak Sultan 99/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Stickusteak By Chef Nats SouthCity Pondok Cabe",
+      "entrypoint": "Website/Food And Beverage/Stickusteak By Chef Nats SouthCity Pondok Cabe/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Strangers Reunion Coffee Bintaro",
+      "entrypoint": "Website/Food And Beverage/Strangers Reunion Coffee Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Strata Kopi",
+      "entrypoint": "Website/Food And Beverage/Strata Kopi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Suar Ruang Coffee Ground",
+      "entrypoint": "Website/Food And Beverage/Suar Ruang Coffee Ground/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sudutsatu Bintaro",
+      "entrypoint": "Website/Food And Beverage/Sudutsatu Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sugar Bloom Atelier",
+      "entrypoint": "Website/Food And Beverage/Sugar Bloom Atelier/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sumber Asli Kuliner Tempo Dulu",
+      "entrypoint": "Website/Food And Beverage/Sumber Asli Kuliner Tempo Dulu/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sushi Stop , Pasar Minggu",
+      "entrypoint": "Website/Food And Beverage/Sushi Stop , Pasar Minggu/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Sushi Yay! - Fatmawati",
+      "entrypoint": "Website/Food And Beverage/Sushi Yay! - Fatmawati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Talaga Sampireun Bintaro",
+      "entrypoint": "Website/Food And Beverage/Talaga Sampireun Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Talakopi",
+      "entrypoint": "Website/Food And Beverage/Talakopi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tamanteras",
+      "entrypoint": "Website/Food And Beverage/Tamanteras/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tempat Ngupi",
+      "entrypoint": "Website/Food And Beverage/Tempat Ngupi/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Teras Angkasa - Coffee Billiard Live Music Cafe Parung",
+      "entrypoint": "Website/Food And Beverage/Teras Angkasa - Coffee Billiard Live Music Cafe Parung/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Teras Koempoel - Gading Serpong",
+      "entrypoint": "Website/Food And Beverage/Teras Koempoel - Gading Serpong/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Caffeine Theory (TCT)",
+      "entrypoint": "Website/Food And Beverage/The Caffeine Theory (TCT)/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Leaf Restaurant @The Quantis Clubhouse, BSD City",
+      "entrypoint": "Website/Food And Beverage/The Leaf Restaurant @The Quantis Clubhouse, BSD City/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Luna Kota Wisata",
+      "entrypoint": "Website/Food And Beverage/The Luna Kota Wisata/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Maple Brasserie",
+      "entrypoint": "Website/Food And Beverage/The Maple Brasserie/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/The Rica Resto - Bogor",
+      "entrypoint": "Website/Food And Beverage/The Rica Resto - Bogor/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Titik Desa",
+      "entrypoint": "Website/Food And Beverage/Titik Desa/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tongdir Resto and Coffee",
+      "entrypoint": "Website/Food And Beverage/Tongdir Resto and Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuju Tuju Coffee",
+      "entrypoint": "Website/Food And Beverage/Tuju Tuju Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuku Ramen Pondok Ranji",
+      "entrypoint": "Website/Food And Beverage/Tuku Ramen Pondok Ranji/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Tuwuh Treats Cafe, Bintaro",
+      "entrypoint": "Website/Food And Beverage/Tuwuh Treats Cafe, Bintaro/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/VanGard Kitchen and Garden",
+      "entrypoint": "Website/Food And Beverage/VanGard Kitchen and Garden/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Vultures Nest Restaurant",
+      "entrypoint": "Website/Food And Beverage/Vultures Nest Restaurant/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WARJON - Pasar Minggu",
+      "entrypoint": "Website/Food And Beverage/WARJON - Pasar Minggu/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warkombi Telaga Kahuripan",
+      "entrypoint": "Website/Food And Beverage/Warkombi Telaga Kahuripan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warnoes Margonda",
+      "entrypoint": "Website/Food And Beverage/Warnoes Margonda/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Waroenk Asap Seafood",
+      "entrypoint": "Website/Food And Beverage/Waroenk Asap Seafood/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warpang Resto ( waroeng nya pencinta ramen )",
+      "entrypoint": "Website/Food And Beverage/Warpang Resto ( waroeng nya pencinta ramen )/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Bambu Kuning Parigi Baru",
+      "entrypoint": "Website/Food And Beverage/Warung Bambu Kuning Parigi Baru/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Betawie H Apen",
+      "entrypoint": "Website/Food And Beverage/Warung Betawie H Apen/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Bu Kris Fatmawati",
+      "entrypoint": "Website/Food And Beverage/Warung Bu Kris Fatmawati/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Kopi Tepi Sungai",
+      "entrypoint": "Website/Food And Beverage/Warung Kopi Tepi Sungai/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WARUNG NAMU Sup Ikan Goreng Sanur and Coffee BSD",
+      "entrypoint": "Website/Food And Beverage/WARUNG NAMU Sup Ikan Goreng Sanur and Coffee BSD/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Warung Sambal Samuda",
+      "entrypoint": "Website/Food And Beverage/Warung Sambal Samuda/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WDR coffee",
+      "entrypoint": "Website/Food And Beverage/WDR coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Westloop - Coffee and Kitchen",
+      "entrypoint": "Website/Food And Beverage/Westloop - Coffee and Kitchen/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/WINGLOK Hongkong Dimsum Antasari",
+      "entrypoint": "Website/Food And Beverage/WINGLOK Hongkong Dimsum Antasari/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Woody House Steak 12",
+      "entrypoint": "Website/Food And Beverage/Woody House Steak 12/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Yakudo Ramen",
+      "entrypoint": "Website/Food And Beverage/Yakudo Ramen/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Food And Beverage/Yard Coffee",
+      "entrypoint": "Website/Food And Beverage/Yard Coffee/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/ARTHA PROPERTY BANDUNG",
+      "entrypoint": "Website/Property/ARTHA PROPERTY BANDUNG/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Best Property Medan",
+      "entrypoint": "Website/Property/Best Property Medan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Destiny Realty",
+      "entrypoint": "Website/Property/Destiny Realty/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Dijual Sopian Rumah dan Kontrakan",
+      "entrypoint": "Website/Property/Dijual Sopian Rumah dan Kontrakan/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Jual Rumah Joglo",
+      "entrypoint": "Website/Property/Jual Rumah Joglo/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Properti online Depok-Bogor",
+      "entrypoint": "Website/Property/Properti online Depok-Bogor/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Properti Syariah Murah",
+      "entrypoint": "Website/Property/Properti Syariah Murah/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/Property Bali Agent",
+      "entrypoint": "Website/Property/Property Bali Agent/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/PROPERTY SURABAYA MALANG",
+      "entrypoint": "Website/Property/PROPERTY SURABAYA MALANG/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Property/THE FLORA UNGASAN",
+      "entrypoint": "Website/Property/THE FLORA UNGASAN/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Sport & Fitness/Sou Pilates",
+      "entrypoint": "Website/Sport & Fitness/Sou Pilates/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Travel & Tourism/D'calton Courteous Hotel",
+      "entrypoint": "Website/Travel & Tourism/D'calton Courteous Hotel/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    },
+    {
+      "sourceFolder": "Website/Travel & Tourism/Hotel Kuretakeso Kemang",
+      "entrypoint": "Website/Travel & Tourism/Hotel Kuretakeso Kemang/index.html",
+      "urlSource": "Local HTML fallback: no trustworthy deployed URL metadata."
+    }
+  ],
+  "notes": [
+    "Every actual Food And Beverage HTML project is included once. Empty/design-only folders are excluded and listed.",
+    "Project images are source photos/artwork, not rendered website previews, except the separately labeled existing screenshot.",
+    "No deployment URL was invented from business websites, social profiles or project names.",
+    "Local links are relative to the portfolio root and resolve to ../Kumpulan/Website/<category>/<project>/index.html: the project files were moved out of this folder so the portfolio stays small. They only open when ../Kumpulan sits next to the portfolio, or when window.PORTFOLIO_PROJECT_BASE points at a host that serves them. Source demos may depend on remote fonts/images or backends.",
+    "Unbuilt Flutter source and empty folders are not presented as runnable websites.",
+    "APK availability is based on an exhaustive search inside Apps/MakeMeSmart; no build is performed."
+  ],
+  "projectBase": "../Kumpulan/",
+  "sourceRoot": "../Kumpulan (Website/, Apps/ moved out of the portfolio folder)"
+}

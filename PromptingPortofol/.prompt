@@ -1,0 +1,105 @@
+1. Urutan baru yang direkomendasikan (dari 8 poin kamu)
+Urutan baru	Section	Asal poin kamu	Kenapa dipindah
+0	Hero	Perkenalan	Tetap di depan, ini yang wajib kena 5 detik pertama
+1	Tentang Saya	#8 + #2 digabung	Cerita personal & origin story harus duluan sebelum klaim teknis — orang percaya "siapa kamu" dulu baru percaya "apa yang kamu klaim bisa"
+2	Apa yang Membedakan Saya	#1	Diferensiator baru masuk akal setelah orang tahu latar belakangmu, bukan sebelum
+3	Keahlian Teknis	#3 (diperbaiki)	Bukti kompetensi konkret
+4	Pengalaman & Peran	#4 + #7 digabung jadi satu tabel	Daripada dua list terpisah (peran, lalu tahun), gabung jadi satu — lebih ringkas dan tidak terasa diulang
+5	Sedang Dipelajari	#5	Penutup bagian skill, menunjukkan growth mindset sebelum masuk ke karya nyata
+6	Proyek Portofolio (kategori + interactive popup)	tidak ada di 8 poin kamu	Lihat catatan di bawah — ini masalah paling penting
+7	Kontak & Kolaborasi	#6	Penutup, CTA
+
+Catatan penting: kamu jelaskan detail fitur "Proyek Portofolio" (folder kategori, pop-up interaktif, "Do u wanna be the first?") panjang lebar di bagian awal pesanmu, tapi itu tidak masuk ke 8 nomor "seksi yang akan dimunculkan". Padahal untuk portofolio developer, section proyek justru yang paling menentukan keputusan klien/recruiter — bukan pelengkap. Saya masukkan sebagai section resmi #6.
+
+2. Draft copy yang sudah dirapikan
+
+Hero
+
+Shafi Agna Rakasiwi Avianto
+Full-Stack Developer & UI/UX Designer — 10+ Tahun di Dunia Teknologi
+
+Tentang Saya
+
+Saya sebenarnya lebih tertarik pada dunia olahraga dibanding teknologi. Tapi begitu saya mulai mengulik bagaimana sebuah sistem bekerja secara terstruktur — apa yang membuatnya berjalan, dan bagaimana cara membangunnya agar bisa berkembang dan berbeda dari yang lain — rasa penasaran itu yang membawa saya masuk lebih dalam ke dunia IT, hingga lebih dari 10 tahun berikutnya.
+
+(Saya pertahankan kejujuran nada aslimu soal "minat tidak terlalu besar" — itu justru bikin ceritamu terasa manusiawi dan tidak generik. Tapi perlu kamu sadari: taruh kalimat ini di About, bukan di Hero, supaya tidak melemahkan kesan pertama.)
+
+Apa yang Membedakan Saya
+
+Saya selalu memberi estimasi waktu yang realistis kepada klien — dan berusaha menyelesaikan lebih cepat dari itu, bukan sebaliknya. Saat menawarkan proyek, saya lebih memilih bilang "satu minggu" lalu menyelesaikannya dalam dua hari, daripada menjanjikan kecepatan yang belum tentu bisa saya tepati. Saya percaya bukti kerja lebih kuat daripada janji — dan kompensasi yang saya minta akan setara dengan nilai dan kecepatan yang saya berikan.
+
+Keahlian Teknis (lihat perbaikan konflik di bagian 3)
+
+Python — Intermediate | HTML — Master | JavaScript — Advanced | PHP — Upper-Intermediate | C# — Elementary | Kotlin — Advanced | Swift — Elementary | Dart — Elementary | TypeScript — Elementary | C — Elementary | SQL — Intermediate
+
+Pengalaman & Peran (digabung jadi satu tabel)
+
+Peran	Lama Pengalaman
+UI/UX Design	8 tahun
+Fullstack Developer	5 tahun
+Front-end Developer	4 tahun
+React	4 tahun
+Back-end Developer	3 tahun
+Network Security	3 tahun
+Android Developer	2 tahun
+Mobile Apps Developer	2 tahun
+iOS Developer	1 tahun
+Software Engineer	1 tahun
+SQL	1 tahun
+
+Sedang Dipelajari
+
+Saat ini saya sedang memperdalam AI, khususnya Machine Learning berbasis Python.
+
+Kontak & Kolaborasi
+
+Email: shafiagnadev@gmail.com | Instagram: @shafithropic | TikTok: @syafign | Facebook: Shafi Agna Rakasiwi Avianto | LinkedIn: Shafi Agna Rakasiwi Avianto
+
+
+
+
+
+Buatkan UI/UX section "Food & Beverage" untuk portofolio dengan gaya desain Glassmorphism, menampilkan 200+ item website sebagai kartu yang bergerak otomatis di dalam area kanvas (floating/drifting), dengan spesifikasi berikut:
+
+DATA
+- Sumber data berupa array/JSON: [{ nama, url, thumbnail }]
+- Render item dari data ini secara dinamis, jangan hardcode per kartu.
+
+GAYA VISUAL (Glassmorphism)
+- Kartu: latar semi-transparan (rgba dengan alpha ~0.15–0.25), backdrop-filter: blur(12–16px), border 1px rgba putih transparan, border-radius 16–20px, shadow lembut.
+- Latar belakang kanvas: gradient blur lembut atau bentuk abstrak blur di belakang layer kartu supaya efek kaca terlihat.
+- Setiap kartu menampilkan: thumbnail/preview website + nama website di bawahnya.
+- Sediakan versi warna untuk light mode (kaca putih terang) dan dark mode (kaca gelap semi-transparan).
+
+PERILAKU GERAKAN (WAJIB PERFORMANT)
+- Gunakan SATU requestAnimationFrame loop global untuk menggerakkan semua kartu — jangan bikin timer/interval terpisah per kartu.
+- Gerakkan kartu menggunakan CSS transform: translate() (bukan mengubah top/left) supaya animasi berjalan di GPU compositor dan tetap mulus meski jumlah kartu banyak.
+- Kartu bergerak melayang perlahan (floating/drifting) ke arah acak, memantul balik saat menyentuh tepi kanvas (seperti efek DVD screensaver tapi lebih halus & organik, pakai easing).
+- Kecepatan gerak default pelan, jangan sampai user pusing melihatnya.
+
+VIRTUALISASI (WAJIB karena 200+ item)
+- Jangan mount semua 200+ kartu ke DOM sekaligus. Render hanya kartu yang berada dalam area viewport kanvas + sedikit buffer di luar, gunakan teknik virtualization/culling berbasis posisi kartu saat ini.
+- Kartu yang keluar dari area pandang di-unmount atau disembunyikan dari render tree, lalu di-mount kembali saat masuk area pandang.
+
+INTERAKSI
+1. Tombol "Stop" (dan "Play" untuk melanjutkan) di pojok kanvas — saat ditekan, requestAnimationFrame loop di-pause, semua kartu berhenti total di posisi masing-masing.
+2. Saat hover di atas satu kartu, kartu tersebut ikut berhenti sementara (pause individual) sambil sedikit membesar (scale 1.05) dan border lebih terang — memberi affordance bahwa kartu itu bisa diklik.
+3. Saat kartu diklik, buka url website tersebut di tab baru (target="_blank" rel="noopener noreferrer") — jangan ubah/navigasi halaman utama.
+4. User bisa geser/drag kanvas (mouse drag di desktop, touch swipe di mobile) untuk menjelajahi area yang lebih luas dari 200+ kartu — implementasikan sebagai pan kanvas, bukan scroll biasa.
+
+AKSESIBILITAS & EDGE CASE
+- Hormati media query prefers-reduced-motion: jika aktif di sistem user, matikan animasi otomatis secara default dan hanya render kartu dalam grid statis (tetap bisa diklik & drag).
+- Setiap kartu punya alt text/aria-label berisi nama website untuk screen reader.
+- Tambahkan indikator loading skeleton (bentuk kaca transparan pulsing) saat thumbnail belum termuat.
+- Sertakan counter kecil "menampilkan X dari 200+ website" di pojok layar sebagai konteks jumlah.
+
+RESPONSIVE
+- Di layar mobile, kurangi jumlah kartu yang di-render bersamaan dan perlambat kecepatan gerak untuk menjaga performa.
+
+Output: berikan struktur komponen, CSS (atau Tailwind) untuk efek glassmorphism, dan logic JavaScript untuk animation loop + virtualization + drag pan + stop/play toggle.
+
+
+
+dan disitu ada folder aplikasi saya dengan nama make me smart.
+ntar dideskripsiin aja aplikasi apa.
+dan bisa didownload

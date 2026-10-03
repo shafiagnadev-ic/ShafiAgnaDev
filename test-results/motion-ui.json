@@ -1,0 +1,152 @@
+{
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/shafiagnadev-ic"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/shafithropic/"
+    },
+    {
+      "label": "TikTok",
+      "href": "https://www.tiktok.com/@syafign"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/search/top?q=Shafi%20Agna%20Rakasiwi%20Avianto"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/search/results/all/?keywords=Shafi%20Agna%20Rakasiwi%20Avianto"
+    }
+  ],
+  "radar": {
+    "rings": 5,
+    "axes": 12,
+    "labels": 12,
+    "points": 12,
+    "shape": 1,
+    "shapePoints": 12,
+    "topLabels": [
+      "HTML"
+    ]
+  },
+  "meters": [
+    {
+      "name": "Python",
+      "level": "2"
+    },
+    {
+      "name": "HTML",
+      "level": "5"
+    },
+    {
+      "name": "JavaScript",
+      "level": "4"
+    },
+    {
+      "name": "PHP",
+      "level": "3"
+    },
+    {
+      "name": "C#",
+      "level": "1"
+    },
+    {
+      "name": "Kotlin",
+      "level": "4"
+    },
+    {
+      "name": "Swift",
+      "level": "1"
+    },
+    {
+      "name": "Dart",
+      "level": "1"
+    },
+    {
+      "name": "TypeScript",
+      "level": "1"
+    },
+    {
+      "name": "C",
+      "level": "1"
+    },
+    {
+      "name": "SQL",
+      "level": "2"
+    },
+    {
+      "name": "Git & GitHub",
+      "level": "4"
+    }
+  ],
+  "roleMeters": 11,
+  "cards": 10,
+  "insight": "Terkuat: HTML (Master). Menyusul: JavaScript, Kotlin, Git & GitHub (Advanced). Menengah: Python, PHP, SQL. Masih diasah: C#, Swift, Dart, TypeScript, C (Elementary).",
+  "sweep": [
+    {
+      "width": 1440,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 64.941650390625,
+      "socials": 5
+    },
+    {
+      "width": 1100,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 60.3436279296875,
+      "socials": 5
+    },
+    {
+      "width": 900,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 61.9605712890625,
+      "socials": 5
+    },
+    {
+      "width": 700,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 64.95849609375,
+      "socials": 5
+    },
+    {
+      "width": 680,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 57.95703125,
+      "socials": 5
+    },
+    {
+      "width": 480,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 57.9638671875,
+      "socials": 5
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "svgInside": true,
+      "rowOverflow": 0,
+      "rowHeight": 57.95703125,
+      "socials": 5
+    }
+  ],
+  "screenshots": [
+    "test-results/desktop-glass.png",
+    "test-results/mobile-glass.png"
+  ],
+  "warnings": [],
+  "errors": []
+}
